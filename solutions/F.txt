@@ -1,0 +1,793 @@
+**F**
+F -> fffff -> Far east nightbird -> Don't be afraid myself
+F -> four-leaf -> Far east nightbird -> Don't be afraid myself
+fffff -> F -> Far east nightbird -> Don't be afraid myself
+fffff -> four-leaf -> Far east nightbird -> Don't be afraid myself
+four-leaf -> F -> Far east nightbird -> Don't be afraid myself
+four-leaf -> fffff -> Far east nightbird -> Don't be afraid myself
+F -> FAKE TIME -> end of world -> Don't be afraid myself
+F -> FIRE FIRE -> end of world -> Don't be afraid myself
+F -> Fly Above -> end of world -> Don't be afraid myself
+F -> Free Style -> end of world -> Don't be afraid myself
+F -> Freeway Shuffle -> end of world -> Don't be afraid myself
+F -> Freezing atmosphere -> end of world -> Don't be afraid myself
+fffff -> FAKE TIME -> end of world -> Don't be afraid myself
+fffff -> FIRE FIRE -> end of world -> Don't be afraid myself
+fffff -> Fly Above -> end of world -> Don't be afraid myself
+fffff -> Free Style -> end of world -> Don't be afraid myself
+fffff -> Freeway Shuffle -> end of world -> Don't be afraid myself
+fffff -> Freezing atmosphere -> end of world -> Don't be afraid myself
+four-leaf -> FAKE TIME -> end of world -> Don't be afraid myself
+four-leaf -> FIRE FIRE -> end of world -> Don't be afraid myself
+four-leaf -> Fly Above -> end of world -> Don't be afraid myself
+four-leaf -> Free Style -> end of world -> Don't be afraid myself
+four-leaf -> Freeway Shuffle -> end of world -> Don't be afraid myself
+four-leaf -> Freezing atmosphere -> end of world -> Don't be afraid myself
+F -> Fantasia -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+F -> Fantasia -> ALIEN WORLD -> Don't be afraid myself
+F -> Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+F -> Fly Away To India -> ALIEN WORLD -> Don't be afraid myself
+fffff -> Fantasia -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+fffff -> Fantasia -> ALIEN WORLD -> Don't be afraid myself
+fffff -> Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+fffff -> Fly Away To India -> ALIEN WORLD -> Don't be afraid myself
+four-leaf -> Fantasia -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+four-leaf -> Fantasia -> ALIEN WORLD -> Don't be afraid myself
+four-leaf -> Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+four-leaf -> Fly Away To India -> ALIEN WORLD -> Don't be afraid myself
+F -> Far east nightbird -> D -> Don't be afraid myself
+F -> Far east nightbird -> Destiny Sword -> Don't be afraid myself
+fffff -> Far east nightbird -> D -> Don't be afraid myself
+fffff -> Far east nightbird -> Destiny Sword -> Don't be afraid myself
+four-leaf -> Far east nightbird -> D -> Don't be afraid myself
+four-leaf -> Far east nightbird -> Destiny Sword -> Don't be afraid myself
+F -> Far east nightbird -> Don't be afraid myself -> fffff
+F -> Far east nightbird -> Don't be afraid myself -> four-leaf
+fffff -> Far east nightbird -> Don't be afraid myself -> F
+fffff -> Far east nightbird -> Don't be afraid myself -> four-leaf
+four-leaf -> Far east nightbird -> Don't be afraid myself -> F
+four-leaf -> Far east nightbird -> Don't be afraid myself -> fffff
+F -> Fascination MAXX -> X-rated -> Don't be afraid myself
+fffff -> Fascination MAXX -> X-rated -> Don't be afraid myself
+four-leaf -> Fascination MAXX -> X-rated -> Don't be afraid myself
+F -> FEEL IT -> Tizona d'El Cid -> Don't be afraid myself
+F -> FEEL IT -> TRANOID -> Don't be afraid myself
+F -> fly through the night -> Tizona d'El Cid -> Don't be afraid myself
+F -> fly through the night -> TRANOID -> Don't be afraid myself
+fffff -> FEEL IT -> Tizona d'El Cid -> Don't be afraid myself
+fffff -> FEEL IT -> TRANOID -> Don't be afraid myself
+fffff -> fly through the night -> Tizona d'El Cid -> Don't be afraid myself
+fffff -> fly through the night -> TRANOID -> Don't be afraid myself
+four-leaf -> FEEL IT -> Tizona d'El Cid -> Don't be afraid myself
+four-leaf -> FEEL IT -> TRANOID -> Don't be afraid myself
+four-leaf -> fly through the night -> Tizona d'El Cid -> Don't be afraid myself
+four-leaf -> fly through the night -> TRANOID -> Don't be afraid myself
+F -> Flash Back 90's -> SCREAM SQUAD -> Don't be afraid myself
+F -> Flash Back 90's -> SOLID STATE SQUAD -> Don't be afraid myself
+F -> Flash Back 90's -> STAR FIELD -> Don't be afraid myself
+F -> Flash Back 90's -> STELLAR WIND -> Don't be afraid myself
+F -> Flash Back 90's -> Sun Field -> Don't be afraid myself
+fffff -> Flash Back 90's -> SCREAM SQUAD -> Don't be afraid myself
+fffff -> Flash Back 90's -> SOLID STATE SQUAD -> Don't be afraid myself
+fffff -> Flash Back 90's -> STAR FIELD -> Don't be afraid myself
+fffff -> Flash Back 90's -> STELLAR WIND -> Don't be afraid myself
+fffff -> Flash Back 90's -> Sun Field -> Don't be afraid myself
+four-leaf -> Flash Back 90's -> SCREAM SQUAD -> Don't be afraid myself
+four-leaf -> Flash Back 90's -> SOLID STATE SQUAD -> Don't be afraid myself
+four-leaf -> Flash Back 90's -> STAR FIELD -> Don't be afraid myself
+four-leaf -> Flash Back 90's -> STELLAR WIND -> Don't be afraid myself
+four-leaf -> Flash Back 90's -> Sun Field -> Don't be afraid myself
+FAKE TIME -> earth scape -> end of world -> Don't be afraid myself
+FAKE TIME -> Energy Drive -> end of world -> Don't be afraid myself
+FAKE TIME -> Enjoy your life -> end of world -> Don't be afraid myself
+FAKE TIME -> entrance -> end of world -> Don't be afraid myself
+FAKE TIME -> EURO-ROMANCE -> end of world -> Don't be afraid myself
+FAKE TIME -> EXE -> end of world -> Don't be afraid myself
+FIRE FIRE -> earth scape -> end of world -> Don't be afraid myself
+FIRE FIRE -> Energy Drive -> end of world -> Don't be afraid myself
+FIRE FIRE -> Enjoy your life -> end of world -> Don't be afraid myself
+FIRE FIRE -> entrance -> end of world -> Don't be afraid myself
+FIRE FIRE -> EURO-ROMANCE -> end of world -> Don't be afraid myself
+FIRE FIRE -> EXE -> end of world -> Don't be afraid myself
+Fly Above -> earth scape -> end of world -> Don't be afraid myself
+Fly Above -> Energy Drive -> end of world -> Don't be afraid myself
+Fly Above -> Enjoy your life -> end of world -> Don't be afraid myself
+Fly Above -> entrance -> end of world -> Don't be afraid myself
+Fly Above -> EURO-ROMANCE -> end of world -> Don't be afraid myself
+Fly Above -> EXE -> end of world -> Don't be afraid myself
+Free Style -> earth scape -> end of world -> Don't be afraid myself
+Free Style -> Energy Drive -> end of world -> Don't be afraid myself
+Free Style -> Enjoy your life -> end of world -> Don't be afraid myself
+Free Style -> entrance -> end of world -> Don't be afraid myself
+Free Style -> EURO-ROMANCE -> end of world -> Don't be afraid myself
+Free Style -> EXE -> end of world -> Don't be afraid myself
+Freeway Shuffle -> earth scape -> end of world -> Don't be afraid myself
+Freeway Shuffle -> Energy Drive -> end of world -> Don't be afraid myself
+Freeway Shuffle -> Enjoy your life -> end of world -> Don't be afraid myself
+Freeway Shuffle -> entrance -> end of world -> Don't be afraid myself
+Freeway Shuffle -> EURO-ROMANCE -> end of world -> Don't be afraid myself
+Freeway Shuffle -> EXE -> end of world -> Don't be afraid myself
+Freezing atmosphere -> earth scape -> end of world -> Don't be afraid myself
+Freezing atmosphere -> Energy Drive -> end of world -> Don't be afraid myself
+Freezing atmosphere -> Enjoy your life -> end of world -> Don't be afraid myself
+Freezing atmosphere -> entrance -> end of world -> Don't be afraid myself
+Freezing atmosphere -> EURO-ROMANCE -> end of world -> Don't be afraid myself
+Freezing atmosphere -> EXE -> end of world -> Don't be afraid myself
+FAKE TIME -> ECHOES -> SCREAM SQUAD -> Don't be afraid myself
+FAKE TIME -> ECHOES -> SOLID STATE SQUAD -> Don't be afraid myself
+FAKE TIME -> ECHOES -> STAR FIELD -> Don't be afraid myself
+FAKE TIME -> ECHOES -> STELLAR WIND -> Don't be afraid myself
+FAKE TIME -> ECHOES -> Sun Field -> Don't be afraid myself
+FAKE TIME -> Eternal Tears -> SCREAM SQUAD -> Don't be afraid myself
+FAKE TIME -> Eternal Tears -> SOLID STATE SQUAD -> Don't be afraid myself
+FAKE TIME -> Eternal Tears -> STAR FIELD -> Don't be afraid myself
+FAKE TIME -> Eternal Tears -> STELLAR WIND -> Don't be afraid myself
+FAKE TIME -> Eternal Tears -> Sun Field -> Don't be afraid myself
+FAKE TIME -> Evans -> SCREAM SQUAD -> Don't be afraid myself
+FAKE TIME -> Evans -> SOLID STATE SQUAD -> Don't be afraid myself
+FAKE TIME -> Evans -> STAR FIELD -> Don't be afraid myself
+FAKE TIME -> Evans -> STELLAR WIND -> Don't be afraid myself
+FAKE TIME -> Evans -> Sun Field -> Don't be afraid myself
+FIRE FIRE -> ECHOES -> SCREAM SQUAD -> Don't be afraid myself
+FIRE FIRE -> ECHOES -> SOLID STATE SQUAD -> Don't be afraid myself
+FIRE FIRE -> ECHOES -> STAR FIELD -> Don't be afraid myself
+FIRE FIRE -> ECHOES -> STELLAR WIND -> Don't be afraid myself
+FIRE FIRE -> ECHOES -> Sun Field -> Don't be afraid myself
+FIRE FIRE -> Eternal Tears -> SCREAM SQUAD -> Don't be afraid myself
+FIRE FIRE -> Eternal Tears -> SOLID STATE SQUAD -> Don't be afraid myself
+FIRE FIRE -> Eternal Tears -> STAR FIELD -> Don't be afraid myself
+FIRE FIRE -> Eternal Tears -> STELLAR WIND -> Don't be afraid myself
+FIRE FIRE -> Eternal Tears -> Sun Field -> Don't be afraid myself
+FIRE FIRE -> Evans -> SCREAM SQUAD -> Don't be afraid myself
+FIRE FIRE -> Evans -> SOLID STATE SQUAD -> Don't be afraid myself
+FIRE FIRE -> Evans -> STAR FIELD -> Don't be afraid myself
+FIRE FIRE -> Evans -> STELLAR WIND -> Don't be afraid myself
+FIRE FIRE -> Evans -> Sun Field -> Don't be afraid myself
+Fly Above -> ECHOES -> SCREAM SQUAD -> Don't be afraid myself
+Fly Above -> ECHOES -> SOLID STATE SQUAD -> Don't be afraid myself
+Fly Above -> ECHOES -> STAR FIELD -> Don't be afraid myself
+Fly Above -> ECHOES -> STELLAR WIND -> Don't be afraid myself
+Fly Above -> ECHOES -> Sun Field -> Don't be afraid myself
+Fly Above -> Eternal Tears -> SCREAM SQUAD -> Don't be afraid myself
+Fly Above -> Eternal Tears -> SOLID STATE SQUAD -> Don't be afraid myself
+Fly Above -> Eternal Tears -> STAR FIELD -> Don't be afraid myself
+Fly Above -> Eternal Tears -> STELLAR WIND -> Don't be afraid myself
+Fly Above -> Eternal Tears -> Sun Field -> Don't be afraid myself
+Fly Above -> Evans -> SCREAM SQUAD -> Don't be afraid myself
+Fly Above -> Evans -> SOLID STATE SQUAD -> Don't be afraid myself
+Fly Above -> Evans -> STAR FIELD -> Don't be afraid myself
+Fly Above -> Evans -> STELLAR WIND -> Don't be afraid myself
+Fly Above -> Evans -> Sun Field -> Don't be afraid myself
+Free Style -> ECHOES -> SCREAM SQUAD -> Don't be afraid myself
+Free Style -> ECHOES -> SOLID STATE SQUAD -> Don't be afraid myself
+Free Style -> ECHOES -> STAR FIELD -> Don't be afraid myself
+Free Style -> ECHOES -> STELLAR WIND -> Don't be afraid myself
+Free Style -> ECHOES -> Sun Field -> Don't be afraid myself
+Free Style -> Eternal Tears -> SCREAM SQUAD -> Don't be afraid myself
+Free Style -> Eternal Tears -> SOLID STATE SQUAD -> Don't be afraid myself
+Free Style -> Eternal Tears -> STAR FIELD -> Don't be afraid myself
+Free Style -> Eternal Tears -> STELLAR WIND -> Don't be afraid myself
+Free Style -> Eternal Tears -> Sun Field -> Don't be afraid myself
+Free Style -> Evans -> SCREAM SQUAD -> Don't be afraid myself
+Free Style -> Evans -> SOLID STATE SQUAD -> Don't be afraid myself
+Free Style -> Evans -> STAR FIELD -> Don't be afraid myself
+Free Style -> Evans -> STELLAR WIND -> Don't be afraid myself
+Free Style -> Evans -> Sun Field -> Don't be afraid myself
+Freeway Shuffle -> ECHOES -> SCREAM SQUAD -> Don't be afraid myself
+Freeway Shuffle -> ECHOES -> SOLID STATE SQUAD -> Don't be afraid myself
+Freeway Shuffle -> ECHOES -> STAR FIELD -> Don't be afraid myself
+Freeway Shuffle -> ECHOES -> STELLAR WIND -> Don't be afraid myself
+Freeway Shuffle -> ECHOES -> Sun Field -> Don't be afraid myself
+Freeway Shuffle -> Eternal Tears -> SCREAM SQUAD -> Don't be afraid myself
+Freeway Shuffle -> Eternal Tears -> SOLID STATE SQUAD -> Don't be afraid myself
+Freeway Shuffle -> Eternal Tears -> STAR FIELD -> Don't be afraid myself
+Freeway Shuffle -> Eternal Tears -> STELLAR WIND -> Don't be afraid myself
+Freeway Shuffle -> Eternal Tears -> Sun Field -> Don't be afraid myself
+Freeway Shuffle -> Evans -> SCREAM SQUAD -> Don't be afraid myself
+Freeway Shuffle -> Evans -> SOLID STATE SQUAD -> Don't be afraid myself
+Freeway Shuffle -> Evans -> STAR FIELD -> Don't be afraid myself
+Freeway Shuffle -> Evans -> STELLAR WIND -> Don't be afraid myself
+Freeway Shuffle -> Evans -> Sun Field -> Don't be afraid myself
+Freezing atmosphere -> ECHOES -> SCREAM SQUAD -> Don't be afraid myself
+Freezing atmosphere -> ECHOES -> SOLID STATE SQUAD -> Don't be afraid myself
+Freezing atmosphere -> ECHOES -> STAR FIELD -> Don't be afraid myself
+Freezing atmosphere -> ECHOES -> STELLAR WIND -> Don't be afraid myself
+Freezing atmosphere -> ECHOES -> Sun Field -> Don't be afraid myself
+Freezing atmosphere -> Eternal Tears -> SCREAM SQUAD -> Don't be afraid myself
+Freezing atmosphere -> Eternal Tears -> SOLID STATE SQUAD -> Don't be afraid myself
+Freezing atmosphere -> Eternal Tears -> STAR FIELD -> Don't be afraid myself
+Freezing atmosphere -> Eternal Tears -> STELLAR WIND -> Don't be afraid myself
+Freezing atmosphere -> Eternal Tears -> Sun Field -> Don't be afraid myself
+Freezing atmosphere -> Evans -> SCREAM SQUAD -> Don't be afraid myself
+Freezing atmosphere -> Evans -> SOLID STATE SQUAD -> Don't be afraid myself
+Freezing atmosphere -> Evans -> STAR FIELD -> Don't be afraid myself
+Freezing atmosphere -> Evans -> STELLAR WIND -> Don't be afraid myself
+Freezing atmosphere -> Evans -> Sun Field -> Don't be afraid myself
+FAKE TIME -> ELECTRIC MASSIVE DIVER -> Round and Round -> Don't be afraid myself
+FIRE FIRE -> ELECTRIC MASSIVE DIVER -> Round and Round -> Don't be afraid myself
+Fly Above -> ELECTRIC MASSIVE DIVER -> Round and Round -> Don't be afraid myself
+Free Style -> ELECTRIC MASSIVE DIVER -> Round and Round -> Don't be afraid myself
+Freeway Shuffle -> ELECTRIC MASSIVE DIVER -> Round and Round -> Don't be afraid myself
+Freezing atmosphere -> ELECTRIC MASSIVE DIVER -> Round and Round -> Don't be afraid myself
+FAKE TIME -> Elisha -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+FAKE TIME -> Elisha -> ALIEN WORLD -> Don't be afraid myself
+FAKE TIME -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+FAKE TIME -> EXUSIA -> ALIEN WORLD -> Don't be afraid myself
+FIRE FIRE -> Elisha -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+FIRE FIRE -> Elisha -> ALIEN WORLD -> Don't be afraid myself
+FIRE FIRE -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+FIRE FIRE -> EXUSIA -> ALIEN WORLD -> Don't be afraid myself
+Fly Above -> Elisha -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Above -> Elisha -> ALIEN WORLD -> Don't be afraid myself
+Fly Above -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Above -> EXUSIA -> ALIEN WORLD -> Don't be afraid myself
+Free Style -> Elisha -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Free Style -> Elisha -> ALIEN WORLD -> Don't be afraid myself
+Free Style -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Free Style -> EXUSIA -> ALIEN WORLD -> Don't be afraid myself
+Freeway Shuffle -> Elisha -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Freeway Shuffle -> Elisha -> ALIEN WORLD -> Don't be afraid myself
+Freeway Shuffle -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Freeway Shuffle -> EXUSIA -> ALIEN WORLD -> Don't be afraid myself
+Freezing atmosphere -> Elisha -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Freezing atmosphere -> Elisha -> ALIEN WORLD -> Don't be afraid myself
+Freezing atmosphere -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Freezing atmosphere -> EXUSIA -> ALIEN WORLD -> Don't be afraid myself
+FAKE TIME -> end of world -> D -> Don't be afraid myself
+FAKE TIME -> end of world -> Destiny Sword -> Don't be afraid myself
+FIRE FIRE -> end of world -> D -> Don't be afraid myself
+FIRE FIRE -> end of world -> Destiny Sword -> Don't be afraid myself
+Fly Above -> end of world -> D -> Don't be afraid myself
+Fly Above -> end of world -> Destiny Sword -> Don't be afraid myself
+Free Style -> end of world -> D -> Don't be afraid myself
+Free Style -> end of world -> Destiny Sword -> Don't be afraid myself
+Freeway Shuffle -> end of world -> D -> Don't be afraid myself
+Freeway Shuffle -> end of world -> Destiny Sword -> Don't be afraid myself
+Freezing atmosphere -> end of world -> D -> Don't be afraid myself
+Freezing atmosphere -> end of world -> Destiny Sword -> Don't be afraid myself
+FAKE TIME -> end of world -> Don't be afraid myself -> F
+FAKE TIME -> end of world -> Don't be afraid myself -> fffff
+FAKE TIME -> end of world -> Don't be afraid myself -> four-leaf
+FIRE FIRE -> end of world -> Don't be afraid myself -> F
+FIRE FIRE -> end of world -> Don't be afraid myself -> fffff
+FIRE FIRE -> end of world -> Don't be afraid myself -> four-leaf
+Fly Above -> end of world -> Don't be afraid myself -> F
+Fly Above -> end of world -> Don't be afraid myself -> fffff
+Fly Above -> end of world -> Don't be afraid myself -> four-leaf
+Free Style -> end of world -> Don't be afraid myself -> F
+Free Style -> end of world -> Don't be afraid myself -> fffff
+Free Style -> end of world -> Don't be afraid myself -> four-leaf
+Freeway Shuffle -> end of world -> Don't be afraid myself -> F
+Freeway Shuffle -> end of world -> Don't be afraid myself -> fffff
+Freeway Shuffle -> end of world -> Don't be afraid myself -> four-leaf
+Freezing atmosphere -> end of world -> Don't be afraid myself -> F
+Freezing atmosphere -> end of world -> Don't be afraid myself -> fffff
+Freezing atmosphere -> end of world -> Don't be afraid myself -> four-leaf
+FAKE TIME -> eRAseRmOToRpHAntOM -> METALLIC MIND -> Don't be afraid myself
+FAKE TIME -> eRAseRmOToRpHAntOM -> moon_child -> Don't be afraid myself
+FAKE TIME -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+FIRE FIRE -> eRAseRmOToRpHAntOM -> METALLIC MIND -> Don't be afraid myself
+FIRE FIRE -> eRAseRmOToRpHAntOM -> moon_child -> Don't be afraid myself
+FIRE FIRE -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Fly Above -> eRAseRmOToRpHAntOM -> METALLIC MIND -> Don't be afraid myself
+Fly Above -> eRAseRmOToRpHAntOM -> moon_child -> Don't be afraid myself
+Fly Above -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Free Style -> eRAseRmOToRpHAntOM -> METALLIC MIND -> Don't be afraid myself
+Free Style -> eRAseRmOToRpHAntOM -> moon_child -> Don't be afraid myself
+Free Style -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Freeway Shuffle -> eRAseRmOToRpHAntOM -> METALLIC MIND -> Don't be afraid myself
+Freeway Shuffle -> eRAseRmOToRpHAntOM -> moon_child -> Don't be afraid myself
+Freeway Shuffle -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Freezing atmosphere -> eRAseRmOToRpHAntOM -> METALLIC MIND -> Don't be afraid myself
+Freezing atmosphere -> eRAseRmOToRpHAntOM -> moon_child -> Don't be afraid myself
+Freezing atmosphere -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+FAKE TIME -> Everlasting Resort -> Tizona d'El Cid -> Don't be afraid myself
+FAKE TIME -> Everlasting Resort -> TRANOID -> Don't be afraid myself
+FIRE FIRE -> Everlasting Resort -> Tizona d'El Cid -> Don't be afraid myself
+FIRE FIRE -> Everlasting Resort -> TRANOID -> Don't be afraid myself
+Fly Above -> Everlasting Resort -> Tizona d'El Cid -> Don't be afraid myself
+Fly Above -> Everlasting Resort -> TRANOID -> Don't be afraid myself
+Free Style -> Everlasting Resort -> Tizona d'El Cid -> Don't be afraid myself
+Free Style -> Everlasting Resort -> TRANOID -> Don't be afraid myself
+Freeway Shuffle -> Everlasting Resort -> Tizona d'El Cid -> Don't be afraid myself
+Freeway Shuffle -> Everlasting Resort -> TRANOID -> Don't be afraid myself
+Freezing atmosphere -> Everlasting Resort -> Tizona d'El Cid -> Don't be afraid myself
+Freezing atmosphere -> Everlasting Resort -> TRANOID -> Don't be afraid myself
+Fantasia -> A -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fantasia -> A -> ALIEN WORLD -> Don't be afraid myself
+Fantasia -> AA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fantasia -> AA -> ALIEN WORLD -> Don't be afraid myself
+Fantasia -> AGEHA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fantasia -> AGEHA -> ALIEN WORLD -> Don't be afraid myself
+Fantasia -> ALBIDA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fantasia -> ALBIDA -> ALIEN WORLD -> Don't be afraid myself
+Fantasia -> ANDROMEDA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fantasia -> ANDROMEDA -> ALIEN WORLD -> Don't be afraid myself
+Fantasia -> Aurora -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fantasia -> Aurora -> ALIEN WORLD -> Don't be afraid myself
+Fantasia -> AVE DE RAPINA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fantasia -> AVE DE RAPINA -> ALIEN WORLD -> Don't be afraid myself
+Fly Away To India -> A -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Away To India -> A -> ALIEN WORLD -> Don't be afraid myself
+Fly Away To India -> AA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Away To India -> AA -> ALIEN WORLD -> Don't be afraid myself
+Fly Away To India -> AGEHA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Away To India -> AGEHA -> ALIEN WORLD -> Don't be afraid myself
+Fly Away To India -> ALBIDA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Away To India -> ALBIDA -> ALIEN WORLD -> Don't be afraid myself
+Fly Away To India -> ANDROMEDA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Away To India -> ANDROMEDA -> ALIEN WORLD -> Don't be afraid myself
+Fly Away To India -> Aurora -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Away To India -> Aurora -> ALIEN WORLD -> Don't be afraid myself
+Fly Away To India -> AVE DE RAPINA -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Fly Away To India -> AVE DE RAPINA -> ALIEN WORLD -> Don't be afraid myself
+Fantasia -> ABSOLUTE -> end of world -> Don't be afraid myself
+Fantasia -> ADVANCE -> end of world -> Don't be afraid myself
+Fantasia -> ALIEN TEMPLE -> end of world -> Don't be afraid myself
+Fantasia -> ALL I NEED YOUR LOVE -> end of world -> Don't be afraid myself
+Fantasia -> alla turca con passione -> end of world -> Don't be afraid myself
+Fantasia -> Almace -> end of world -> Don't be afraid myself
+Fantasia -> ASTRAL VOYAGE -> end of world -> Don't be afraid myself
+Fantasia -> Attitude -> end of world -> Don't be afraid myself
+Fantasia -> avant-guerre -> end of world -> Don't be afraid myself
+Fly Away To India -> ABSOLUTE -> end of world -> Don't be afraid myself
+Fly Away To India -> ADVANCE -> end of world -> Don't be afraid myself
+Fly Away To India -> ALIEN TEMPLE -> end of world -> Don't be afraid myself
+Fly Away To India -> ALL I NEED YOUR LOVE -> end of world -> Don't be afraid myself
+Fly Away To India -> alla turca con passione -> end of world -> Don't be afraid myself
+Fly Away To India -> Almace -> end of world -> Don't be afraid myself
+Fly Away To India -> ASTRAL VOYAGE -> end of world -> Don't be afraid myself
+Fly Away To India -> Attitude -> end of world -> Don't be afraid myself
+Fly Away To India -> avant-guerre -> end of world -> Don't be afraid myself
+Fantasia -> abstract -> Tizona d'El Cid -> Don't be afraid myself
+Fantasia -> abstract -> TRANOID -> Don't be afraid myself
+Fantasia -> ACT -> Tizona d'El Cid -> Don't be afraid myself
+Fantasia -> ACT -> TRANOID -> Don't be afraid myself
+Fantasia -> ALL RIGHT -> Tizona d'El Cid -> Don't be afraid myself
+Fantasia -> ALL RIGHT -> TRANOID -> Don't be afraid myself
+Fantasia -> Almagest -> Tizona d'El Cid -> Don't be afraid myself
+Fantasia -> Almagest -> TRANOID -> Don't be afraid myself
+Fantasia -> Arabian Rave Night -> Tizona d'El Cid -> Don't be afraid myself
+Fantasia -> Arabian Rave Night -> TRANOID -> Don't be afraid myself
+Fly Away To India -> abstract -> Tizona d'El Cid -> Don't be afraid myself
+Fly Away To India -> abstract -> TRANOID -> Don't be afraid myself
+Fly Away To India -> ACT -> Tizona d'El Cid -> Don't be afraid myself
+Fly Away To India -> ACT -> TRANOID -> Don't be afraid myself
+Fly Away To India -> ALL RIGHT -> Tizona d'El Cid -> Don't be afraid myself
+Fly Away To India -> ALL RIGHT -> TRANOID -> Don't be afraid myself
+Fly Away To India -> Almagest -> Tizona d'El Cid -> Don't be afraid myself
+Fly Away To India -> Almagest -> TRANOID -> Don't be afraid myself
+Fly Away To India -> Arabian Rave Night -> Tizona d'El Cid -> Don't be afraid myself
+Fly Away To India -> Arabian Rave Night -> TRANOID -> Don't be afraid myself
+Fantasia -> Abyss -> SCREAM SQUAD -> Don't be afraid myself
+Fantasia -> Abyss -> SOLID STATE SQUAD -> Don't be afraid myself
+Fantasia -> Abyss -> STAR FIELD -> Don't be afraid myself
+Fantasia -> Abyss -> STELLAR WIND -> Don't be afraid myself
+Fantasia -> Abyss -> Sun Field -> Don't be afraid myself
+Fantasia -> Aegis -> SCREAM SQUAD -> Don't be afraid myself
+Fantasia -> Aegis -> SOLID STATE SQUAD -> Don't be afraid myself
+Fantasia -> Aegis -> STAR FIELD -> Don't be afraid myself
+Fantasia -> Aegis -> STELLAR WIND -> Don't be afraid myself
+Fantasia -> Aegis -> Sun Field -> Don't be afraid myself
+Fly Away To India -> Abyss -> SCREAM SQUAD -> Don't be afraid myself
+Fly Away To India -> Abyss -> SOLID STATE SQUAD -> Don't be afraid myself
+Fly Away To India -> Abyss -> STAR FIELD -> Don't be afraid myself
+Fly Away To India -> Abyss -> STELLAR WIND -> Don't be afraid myself
+Fly Away To India -> Abyss -> Sun Field -> Don't be afraid myself
+Fly Away To India -> Aegis -> SCREAM SQUAD -> Don't be afraid myself
+Fly Away To India -> Aegis -> SOLID STATE SQUAD -> Don't be afraid myself
+Fly Away To India -> Aegis -> STAR FIELD -> Don't be afraid myself
+Fly Away To India -> Aegis -> STELLAR WIND -> Don't be afraid myself
+Fly Away To India -> Aegis -> Sun Field -> Don't be afraid myself
+Fantasia -> Air Bell -> lower world -> Don't be afraid myself
+Fly Away To India -> Air Bell -> lower world -> Don't be afraid myself
+Fantasia -> AIR RAID FROM THA UNDAGROUND -> D -> Don't be afraid myself
+Fantasia -> AIR RAID FROM THA UNDAGROUND -> Destiny Sword -> Don't be afraid myself
+Fantasia -> ALIEN WORLD -> D -> Don't be afraid myself
+Fantasia -> ALIEN WORLD -> Destiny Sword -> Don't be afraid myself
+Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> D -> Don't be afraid myself
+Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> Destiny Sword -> Don't be afraid myself
+Fly Away To India -> ALIEN WORLD -> D -> Don't be afraid myself
+Fly Away To India -> ALIEN WORLD -> Destiny Sword -> Don't be afraid myself
+Fantasia -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself -> F
+Fantasia -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself -> fffff
+Fantasia -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself -> four-leaf
+Fantasia -> ALIEN WORLD -> Don't be afraid myself -> F
+Fantasia -> ALIEN WORLD -> Don't be afraid myself -> fffff
+Fantasia -> ALIEN WORLD -> Don't be afraid myself -> four-leaf
+Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself -> F
+Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself -> fffff
+Fly Away To India -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself -> four-leaf
+Fly Away To India -> ALIEN WORLD -> Don't be afraid myself -> F
+Fly Away To India -> ALIEN WORLD -> Don't be afraid myself -> fffff
+Fly Away To India -> ALIEN WORLD -> Don't be afraid myself -> four-leaf
+Fantasia -> Answer -> Round and Round -> Don't be afraid myself
+Fly Away To India -> Answer -> Round and Round -> Don't be afraid myself
+Far east nightbird -> D -> Destiny Sword -> Don't be afraid myself
+Far east nightbird -> Destiny Sword -> D -> Don't be afraid myself
+Far east nightbird -> D -> Don't be afraid myself -> F
+Far east nightbird -> D -> Don't be afraid myself -> fffff
+Far east nightbird -> D -> Don't be afraid myself -> four-leaf
+Far east nightbird -> Destiny Sword -> Don't be afraid myself -> F
+Far east nightbird -> Destiny Sword -> Don't be afraid myself -> fffff
+Far east nightbird -> Destiny Sword -> Don't be afraid myself -> four-leaf
+Far east nightbird -> D2R -> Round and Round -> Don't be afraid myself
+Far east nightbird -> DANCER -> Round and Round -> Don't be afraid myself
+Far east nightbird -> DAYDREAMER -> Round and Round -> Don't be afraid myself
+Far east nightbird -> DEEP ROAR -> Round and Round -> Don't be afraid myself
+Far east nightbird -> Drop on the floor -> Round and Round -> Don't be afraid myself
+Far east nightbird -> Daisuke -> end of world -> Don't be afraid myself
+Far east nightbird -> DESIRE -> end of world -> Don't be afraid myself
+Far east nightbird -> dissolve -> end of world -> Don't be afraid myself
+Far east nightbird -> Dr.LOVE -> end of world -> Don't be afraid myself
+Far east nightbird -> Dances with Snow Fairies -> SCREAM SQUAD -> Don't be afraid myself
+Far east nightbird -> Dances with Snow Fairies -> SOLID STATE SQUAD -> Don't be afraid myself
+Far east nightbird -> Dances with Snow Fairies -> STAR FIELD -> Don't be afraid myself
+Far east nightbird -> Dances with Snow Fairies -> STELLAR WIND -> Don't be afraid myself
+Far east nightbird -> Dances with Snow Fairies -> Sun Field -> Don't be afraid myself
+Far east nightbird -> Distress -> SCREAM SQUAD -> Don't be afraid myself
+Far east nightbird -> Distress -> SOLID STATE SQUAD -> Don't be afraid myself
+Far east nightbird -> Distress -> STAR FIELD -> Don't be afraid myself
+Far east nightbird -> Distress -> STELLAR WIND -> Don't be afraid myself
+Far east nightbird -> Distress -> Sun Field -> Don't be afraid myself
+Far east nightbird -> Dreaming Sweetness -> SCREAM SQUAD -> Don't be afraid myself
+Far east nightbird -> Dreaming Sweetness -> SOLID STATE SQUAD -> Don't be afraid myself
+Far east nightbird -> Dreaming Sweetness -> STAR FIELD -> Don't be afraid myself
+Far east nightbird -> Dreaming Sweetness -> STELLAR WIND -> Don't be afraid myself
+Far east nightbird -> Dreaming Sweetness -> Sun Field -> Don't be afraid myself
+Far east nightbird -> Dancin' Into The Night -> Tizona d'El Cid -> Don't be afraid myself
+Far east nightbird -> Dancin' Into The Night -> TRANOID -> Don't be afraid myself
+Far east nightbird -> Double ♥♥ Loving Heart -> Tizona d'El Cid -> Don't be afraid myself
+Far east nightbird -> Double ♥♥ Loving Heart -> TRANOID -> Don't be afraid myself
+Far east nightbird -> Digitank System -> METALLIC MIND -> Don't be afraid myself
+Far east nightbird -> Digitank System -> moon_child -> Don't be afraid myself
+Far east nightbird -> Digitank System -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Far east nightbird -> DoLL -> lower world -> Don't be afraid myself
+Far east nightbird -> dual control -> lower world -> Don't be afraid myself
+Far east nightbird -> Don't be afraid myself -> F -> fffff
+Far east nightbird -> Don't be afraid myself -> F -> four-leaf
+Far east nightbird -> Don't be afraid myself -> fffff -> F
+Far east nightbird -> Don't be afraid myself -> fffff -> four-leaf
+Far east nightbird -> Don't be afraid myself -> four-leaf -> F
+Far east nightbird -> Don't be afraid myself -> four-leaf -> fffff
+Far east nightbird -> DROP -> Parasite World -> Don't be afraid myself
+Far east nightbird -> DROP -> Programmed World -> Don't be afraid myself
+Fascination MAXX -> X-rated -> D -> Don't be afraid myself
+Fascination MAXX -> X-rated -> Destiny Sword -> Don't be afraid myself
+Fascination MAXX -> X-rated -> Don't be afraid myself -> F
+Fascination MAXX -> X-rated -> Don't be afraid myself -> fffff
+Fascination MAXX -> X-rated -> Don't be afraid myself -> four-leaf
+Fascination MAXX -> XANADU OF TWO -> One of A Kind -> Don't be afraid myself
+Fascination MAXX -> Xepher -> Round and Round -> Don't be afraid myself
+Feedback -> Kailua -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Feedback -> Kailua -> ALIEN WORLD -> Don't be afraid myself
+Feedback -> Karma -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Feedback -> Karma -> ALIEN WORLD -> Don't be afraid myself
+Feedback -> KAMIKAZE -> end of world -> Don't be afraid myself
+Feedback -> Kung-fu Empire -> end of world -> Don't be afraid myself
+FEEL IT -> Take Me Higher -> Round and Round -> Don't be afraid myself
+FEEL IT -> THE DEEP STRIKER -> Round and Round -> Don't be afraid myself
+FEEL IT -> THE LAST STRIKER -> Round and Round -> Don't be afraid myself
+FEEL IT -> thunder -> Round and Round -> Don't be afraid myself
+FEEL IT -> Time to Air -> Round and Round -> Don't be afraid myself
+fly through the night -> Take Me Higher -> Round and Round -> Don't be afraid myself
+fly through the night -> THE DEEP STRIKER -> Round and Round -> Don't be afraid myself
+fly through the night -> THE LAST STRIKER -> Round and Round -> Don't be afraid myself
+fly through the night -> thunder -> Round and Round -> Don't be afraid myself
+fly through the night -> Time to Air -> Round and Round -> Don't be afraid myself
+FEEL IT -> Tangerine Stream -> METALLIC MIND -> Don't be afraid myself
+FEEL IT -> Tangerine Stream -> moon_child -> Don't be afraid myself
+FEEL IT -> Tangerine Stream -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+fly through the night -> Tangerine Stream -> METALLIC MIND -> Don't be afraid myself
+fly through the night -> Tangerine Stream -> moon_child -> Don't be afraid myself
+fly through the night -> Tangerine Stream -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+FEEL IT -> THE BLACK KNIGHT -> Tizona d'El Cid -> Don't be afraid myself
+FEEL IT -> THE BLACK KNIGHT -> TRANOID -> Don't be afraid myself
+FEEL IT -> THE EARTH LIGHT -> Tizona d'El Cid -> Don't be afraid myself
+FEEL IT -> THE EARTH LIGHT -> TRANOID -> Don't be afraid myself
+FEEL IT -> Thunderbolt -> Tizona d'El Cid -> Don't be afraid myself
+FEEL IT -> Thunderbolt -> TRANOID -> Don't be afraid myself
+FEEL IT -> tripping contact -> Tizona d'El Cid -> Don't be afraid myself
+FEEL IT -> tripping contact -> TRANOID -> Don't be afraid myself
+fly through the night -> THE BLACK KNIGHT -> Tizona d'El Cid -> Don't be afraid myself
+fly through the night -> THE BLACK KNIGHT -> TRANOID -> Don't be afraid myself
+fly through the night -> THE EARTH LIGHT -> Tizona d'El Cid -> Don't be afraid myself
+fly through the night -> THE EARTH LIGHT -> TRANOID -> Don't be afraid myself
+fly through the night -> Thunderbolt -> Tizona d'El Cid -> Don't be afraid myself
+fly through the night -> Thunderbolt -> TRANOID -> Don't be afraid myself
+fly through the night -> tripping contact -> Tizona d'El Cid -> Don't be afraid myself
+fly through the night -> tripping contact -> TRANOID -> Don't be afraid myself
+FEEL IT -> THE CUBE -> end of world -> Don't be afraid myself
+FEEL IT -> the trigger of innocence -> end of world -> Don't be afraid myself
+FEEL IT -> This is Love -> end of world -> Don't be afraid myself
+FEEL IT -> To the Future -> end of world -> Don't be afraid myself
+FEEL IT -> Tomorrow Perfume -> end of world -> Don't be afraid myself
+FEEL IT -> Twelfth Style -> end of world -> Don't be afraid myself
+fly through the night -> THE CUBE -> end of world -> Don't be afraid myself
+fly through the night -> the trigger of innocence -> end of world -> Don't be afraid myself
+fly through the night -> This is Love -> end of world -> Don't be afraid myself
+fly through the night -> To the Future -> end of world -> Don't be afraid myself
+fly through the night -> Tomorrow Perfume -> end of world -> Don't be afraid myself
+fly through the night -> Twelfth Style -> end of world -> Don't be afraid myself
+FEEL IT -> The Dirty of Loudness -> SCREAM SQUAD -> Don't be afraid myself
+FEEL IT -> The Dirty of Loudness -> SOLID STATE SQUAD -> Don't be afraid myself
+FEEL IT -> The Dirty of Loudness -> STAR FIELD -> Don't be afraid myself
+FEEL IT -> The Dirty of Loudness -> STELLAR WIND -> Don't be afraid myself
+FEEL IT -> The Dirty of Loudness -> Sun Field -> Don't be afraid myself
+FEEL IT -> THE SHINING POLARIS -> SCREAM SQUAD -> Don't be afraid myself
+FEEL IT -> THE SHINING POLARIS -> SOLID STATE SQUAD -> Don't be afraid myself
+FEEL IT -> THE SHINING POLARIS -> STAR FIELD -> Don't be afraid myself
+FEEL IT -> THE SHINING POLARIS -> STELLAR WIND -> Don't be afraid myself
+FEEL IT -> THE SHINING POLARIS -> Sun Field -> Don't be afraid myself
+FEEL IT -> The Story Begins -> SCREAM SQUAD -> Don't be afraid myself
+FEEL IT -> The Story Begins -> SOLID STATE SQUAD -> Don't be afraid myself
+FEEL IT -> The Story Begins -> STAR FIELD -> Don't be afraid myself
+FEEL IT -> The Story Begins -> STELLAR WIND -> Don't be afraid myself
+FEEL IT -> The Story Begins -> Sun Field -> Don't be afraid myself
+FEEL IT -> traces -> SCREAM SQUAD -> Don't be afraid myself
+FEEL IT -> traces -> SOLID STATE SQUAD -> Don't be afraid myself
+FEEL IT -> traces -> STAR FIELD -> Don't be afraid myself
+FEEL IT -> traces -> STELLAR WIND -> Don't be afraid myself
+FEEL IT -> traces -> Sun Field -> Don't be afraid myself
+FEEL IT -> TROOPERS -> SCREAM SQUAD -> Don't be afraid myself
+FEEL IT -> TROOPERS -> SOLID STATE SQUAD -> Don't be afraid myself
+FEEL IT -> TROOPERS -> STAR FIELD -> Don't be afraid myself
+FEEL IT -> TROOPERS -> STELLAR WIND -> Don't be afraid myself
+FEEL IT -> TROOPERS -> Sun Field -> Don't be afraid myself
+fly through the night -> The Dirty of Loudness -> SCREAM SQUAD -> Don't be afraid myself
+fly through the night -> The Dirty of Loudness -> SOLID STATE SQUAD -> Don't be afraid myself
+fly through the night -> The Dirty of Loudness -> STAR FIELD -> Don't be afraid myself
+fly through the night -> The Dirty of Loudness -> STELLAR WIND -> Don't be afraid myself
+fly through the night -> The Dirty of Loudness -> Sun Field -> Don't be afraid myself
+fly through the night -> THE SHINING POLARIS -> SCREAM SQUAD -> Don't be afraid myself
+fly through the night -> THE SHINING POLARIS -> SOLID STATE SQUAD -> Don't be afraid myself
+fly through the night -> THE SHINING POLARIS -> STAR FIELD -> Don't be afraid myself
+fly through the night -> THE SHINING POLARIS -> STELLAR WIND -> Don't be afraid myself
+fly through the night -> THE SHINING POLARIS -> Sun Field -> Don't be afraid myself
+fly through the night -> The Story Begins -> SCREAM SQUAD -> Don't be afraid myself
+fly through the night -> The Story Begins -> SOLID STATE SQUAD -> Don't be afraid myself
+fly through the night -> The Story Begins -> STAR FIELD -> Don't be afraid myself
+fly through the night -> The Story Begins -> STELLAR WIND -> Don't be afraid myself
+fly through the night -> The Story Begins -> Sun Field -> Don't be afraid myself
+fly through the night -> traces -> SCREAM SQUAD -> Don't be afraid myself
+fly through the night -> traces -> SOLID STATE SQUAD -> Don't be afraid myself
+fly through the night -> traces -> STAR FIELD -> Don't be afraid myself
+fly through the night -> traces -> STELLAR WIND -> Don't be afraid myself
+fly through the night -> traces -> Sun Field -> Don't be afraid myself
+fly through the night -> TROOPERS -> SCREAM SQUAD -> Don't be afraid myself
+fly through the night -> TROOPERS -> SOLID STATE SQUAD -> Don't be afraid myself
+fly through the night -> TROOPERS -> STAR FIELD -> Don't be afraid myself
+fly through the night -> TROOPERS -> STELLAR WIND -> Don't be afraid myself
+fly through the night -> TROOPERS -> Sun Field -> Don't be afraid myself
+FEEL IT -> Tizona d'El Cid -> D -> Don't be afraid myself
+FEEL IT -> Tizona d'El Cid -> Destiny Sword -> Don't be afraid myself
+FEEL IT -> TRANOID -> D -> Don't be afraid myself
+FEEL IT -> TRANOID -> Destiny Sword -> Don't be afraid myself
+fly through the night -> Tizona d'El Cid -> D -> Don't be afraid myself
+fly through the night -> Tizona d'El Cid -> Destiny Sword -> Don't be afraid myself
+fly through the night -> TRANOID -> D -> Don't be afraid myself
+fly through the night -> TRANOID -> Destiny Sword -> Don't be afraid myself
+FEEL IT -> Tizona d'El Cid -> Don't be afraid myself -> F
+FEEL IT -> Tizona d'El Cid -> Don't be afraid myself -> fffff
+FEEL IT -> Tizona d'El Cid -> Don't be afraid myself -> four-leaf
+FEEL IT -> TRANOID -> Don't be afraid myself -> F
+FEEL IT -> TRANOID -> Don't be afraid myself -> fffff
+FEEL IT -> TRANOID -> Don't be afraid myself -> four-leaf
+fly through the night -> Tizona d'El Cid -> Don't be afraid myself -> F
+fly through the night -> Tizona d'El Cid -> Don't be afraid myself -> fffff
+fly through the night -> Tizona d'El Cid -> Don't be afraid myself -> four-leaf
+fly through the night -> TRANOID -> Don't be afraid myself -> F
+fly through the night -> TRANOID -> Don't be afraid myself -> fffff
+fly through the night -> TRANOID -> Don't be afraid myself -> four-leaf
+FEEL IT -> Tropical April -> lower world -> Don't be afraid myself
+fly through the night -> Tropical April -> lower world -> Don't be afraid myself
+First Resolution -> NΦ CRIME -> end of world -> Don't be afraid myself
+First Resolution -> naughty girl@Queen's Palace -> end of world -> Don't be afraid myself
+FLOWERS for ALBION -> NΦ CRIME -> end of world -> Don't be afraid myself
+FLOWERS for ALBION -> naughty girl@Queen's Palace -> end of world -> Don't be afraid myself
+FLUTE MAN -> NΦ CRIME -> end of world -> Don't be afraid myself
+FLUTE MAN -> naughty girl@Queen's Palace -> end of world -> Don't be afraid myself
+four pieces of heaven -> NΦ CRIME -> end of world -> Don't be afraid myself
+four pieces of heaven -> naughty girl@Queen's Palace -> end of world -> Don't be afraid myself
+First Resolution -> Narcissus At Oasis -> SCREAM SQUAD -> Don't be afraid myself
+First Resolution -> Narcissus At Oasis -> SOLID STATE SQUAD -> Don't be afraid myself
+First Resolution -> Narcissus At Oasis -> STAR FIELD -> Don't be afraid myself
+First Resolution -> Narcissus At Oasis -> STELLAR WIND -> Don't be afraid myself
+First Resolution -> Narcissus At Oasis -> Sun Field -> Don't be afraid myself
+First Resolution -> NEMESIS -> SCREAM SQUAD -> Don't be afraid myself
+First Resolution -> NEMESIS -> SOLID STATE SQUAD -> Don't be afraid myself
+First Resolution -> NEMESIS -> STAR FIELD -> Don't be afraid myself
+First Resolution -> NEMESIS -> STELLAR WIND -> Don't be afraid myself
+First Resolution -> NEMESIS -> Sun Field -> Don't be afraid myself
+First Resolution -> neogenesis -> SCREAM SQUAD -> Don't be afraid myself
+First Resolution -> neogenesis -> SOLID STATE SQUAD -> Don't be afraid myself
+First Resolution -> neogenesis -> STAR FIELD -> Don't be afraid myself
+First Resolution -> neogenesis -> STELLAR WIND -> Don't be afraid myself
+First Resolution -> neogenesis -> Sun Field -> Don't be afraid myself
+First Resolution -> New Castle Legions -> SCREAM SQUAD -> Don't be afraid myself
+First Resolution -> New Castle Legions -> SOLID STATE SQUAD -> Don't be afraid myself
+First Resolution -> New Castle Legions -> STAR FIELD -> Don't be afraid myself
+First Resolution -> New Castle Legions -> STELLAR WIND -> Don't be afraid myself
+First Resolution -> New Castle Legions -> Sun Field -> Don't be afraid myself
+FLOWERS for ALBION -> Narcissus At Oasis -> SCREAM SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> Narcissus At Oasis -> SOLID STATE SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> Narcissus At Oasis -> STAR FIELD -> Don't be afraid myself
+FLOWERS for ALBION -> Narcissus At Oasis -> STELLAR WIND -> Don't be afraid myself
+FLOWERS for ALBION -> Narcissus At Oasis -> Sun Field -> Don't be afraid myself
+FLOWERS for ALBION -> NEMESIS -> SCREAM SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> NEMESIS -> SOLID STATE SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> NEMESIS -> STAR FIELD -> Don't be afraid myself
+FLOWERS for ALBION -> NEMESIS -> STELLAR WIND -> Don't be afraid myself
+FLOWERS for ALBION -> NEMESIS -> Sun Field -> Don't be afraid myself
+FLOWERS for ALBION -> neogenesis -> SCREAM SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> neogenesis -> SOLID STATE SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> neogenesis -> STAR FIELD -> Don't be afraid myself
+FLOWERS for ALBION -> neogenesis -> STELLAR WIND -> Don't be afraid myself
+FLOWERS for ALBION -> neogenesis -> Sun Field -> Don't be afraid myself
+FLOWERS for ALBION -> New Castle Legions -> SCREAM SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> New Castle Legions -> SOLID STATE SQUAD -> Don't be afraid myself
+FLOWERS for ALBION -> New Castle Legions -> STAR FIELD -> Don't be afraid myself
+FLOWERS for ALBION -> New Castle Legions -> STELLAR WIND -> Don't be afraid myself
+FLOWERS for ALBION -> New Castle Legions -> Sun Field -> Don't be afraid myself
+FLUTE MAN -> Narcissus At Oasis -> SCREAM SQUAD -> Don't be afraid myself
+FLUTE MAN -> Narcissus At Oasis -> SOLID STATE SQUAD -> Don't be afraid myself
+FLUTE MAN -> Narcissus At Oasis -> STAR FIELD -> Don't be afraid myself
+FLUTE MAN -> Narcissus At Oasis -> STELLAR WIND -> Don't be afraid myself
+FLUTE MAN -> Narcissus At Oasis -> Sun Field -> Don't be afraid myself
+FLUTE MAN -> NEMESIS -> SCREAM SQUAD -> Don't be afraid myself
+FLUTE MAN -> NEMESIS -> SOLID STATE SQUAD -> Don't be afraid myself
+FLUTE MAN -> NEMESIS -> STAR FIELD -> Don't be afraid myself
+FLUTE MAN -> NEMESIS -> STELLAR WIND -> Don't be afraid myself
+FLUTE MAN -> NEMESIS -> Sun Field -> Don't be afraid myself
+FLUTE MAN -> neogenesis -> SCREAM SQUAD -> Don't be afraid myself
+FLUTE MAN -> neogenesis -> SOLID STATE SQUAD -> Don't be afraid myself
+FLUTE MAN -> neogenesis -> STAR FIELD -> Don't be afraid myself
+FLUTE MAN -> neogenesis -> STELLAR WIND -> Don't be afraid myself
+FLUTE MAN -> neogenesis -> Sun Field -> Don't be afraid myself
+FLUTE MAN -> New Castle Legions -> SCREAM SQUAD -> Don't be afraid myself
+FLUTE MAN -> New Castle Legions -> SOLID STATE SQUAD -> Don't be afraid myself
+FLUTE MAN -> New Castle Legions -> STAR FIELD -> Don't be afraid myself
+FLUTE MAN -> New Castle Legions -> STELLAR WIND -> Don't be afraid myself
+FLUTE MAN -> New Castle Legions -> Sun Field -> Don't be afraid myself
+four pieces of heaven -> Narcissus At Oasis -> SCREAM SQUAD -> Don't be afraid myself
+four pieces of heaven -> Narcissus At Oasis -> SOLID STATE SQUAD -> Don't be afraid myself
+four pieces of heaven -> Narcissus At Oasis -> STAR FIELD -> Don't be afraid myself
+four pieces of heaven -> Narcissus At Oasis -> STELLAR WIND -> Don't be afraid myself
+four pieces of heaven -> Narcissus At Oasis -> Sun Field -> Don't be afraid myself
+four pieces of heaven -> NEMESIS -> SCREAM SQUAD -> Don't be afraid myself
+four pieces of heaven -> NEMESIS -> SOLID STATE SQUAD -> Don't be afraid myself
+four pieces of heaven -> NEMESIS -> STAR FIELD -> Don't be afraid myself
+four pieces of heaven -> NEMESIS -> STELLAR WIND -> Don't be afraid myself
+four pieces of heaven -> NEMESIS -> Sun Field -> Don't be afraid myself
+four pieces of heaven -> neogenesis -> SCREAM SQUAD -> Don't be afraid myself
+four pieces of heaven -> neogenesis -> SOLID STATE SQUAD -> Don't be afraid myself
+four pieces of heaven -> neogenesis -> STAR FIELD -> Don't be afraid myself
+four pieces of heaven -> neogenesis -> STELLAR WIND -> Don't be afraid myself
+four pieces of heaven -> neogenesis -> Sun Field -> Don't be afraid myself
+four pieces of heaven -> New Castle Legions -> SCREAM SQUAD -> Don't be afraid myself
+four pieces of heaven -> New Castle Legions -> SOLID STATE SQUAD -> Don't be afraid myself
+four pieces of heaven -> New Castle Legions -> STAR FIELD -> Don't be afraid myself
+four pieces of heaven -> New Castle Legions -> STELLAR WIND -> Don't be afraid myself
+four pieces of heaven -> New Castle Legions -> Sun Field -> Don't be afraid myself
+First Resolution -> NEBULA GRASPER -> Round and Round -> Don't be afraid myself
+First Resolution -> Now and Forever -> Round and Round -> Don't be afraid myself
+FLOWERS for ALBION -> NEBULA GRASPER -> Round and Round -> Don't be afraid myself
+FLOWERS for ALBION -> Now and Forever -> Round and Round -> Don't be afraid myself
+FLUTE MAN -> NEBULA GRASPER -> Round and Round -> Don't be afraid myself
+FLUTE MAN -> Now and Forever -> Round and Round -> Don't be afraid myself
+four pieces of heaven -> NEBULA GRASPER -> Round and Round -> Don't be afraid myself
+four pieces of heaven -> Now and Forever -> Round and Round -> Don't be afraid myself
+Flash Back 90's -> sakura storm -> METALLIC MIND -> Don't be afraid myself
+Flash Back 90's -> sakura storm -> moon_child -> Don't be afraid myself
+Flash Back 90's -> sakura storm -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Flash Back 90's -> snow storm -> METALLIC MIND -> Don't be afraid myself
+Flash Back 90's -> snow storm -> moon_child -> Don't be afraid myself
+Flash Back 90's -> snow storm -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Flash Back 90's -> SOLITON BEAM -> METALLIC MIND -> Don't be afraid myself
+Flash Back 90's -> SOLITON BEAM -> moon_child -> Don't be afraid myself
+Flash Back 90's -> SOLITON BEAM -> MUSIC TO YOUR HEAD -> Don't be afraid myself
+Flash Back 90's -> satfinal -> lower world -> Don't be afraid myself
+Flash Back 90's -> Star Trail -> lower world -> Don't be afraid myself
+Flash Back 90's -> SA.YO.NA.RA. SUPER STAR -> Round and Round -> Don't be afraid myself
+Flash Back 90's -> SHOOTING STAR -> Round and Round -> Don't be afraid myself
+Flash Back 90's -> Skyscraper -> Round and Round -> Don't be afraid myself
+Flash Back 90's -> SCREAM SQUAD -> D -> Don't be afraid myself
+Flash Back 90's -> SCREAM SQUAD -> Destiny Sword -> Don't be afraid myself
+Flash Back 90's -> SOLID STATE SQUAD -> D -> Don't be afraid myself
+Flash Back 90's -> SOLID STATE SQUAD -> Destiny Sword -> Don't be afraid myself
+Flash Back 90's -> STAR FIELD -> D -> Don't be afraid myself
+Flash Back 90's -> STAR FIELD -> Destiny Sword -> Don't be afraid myself
+Flash Back 90's -> STELLAR WIND -> D -> Don't be afraid myself
+Flash Back 90's -> STELLAR WIND -> Destiny Sword -> Don't be afraid myself
+Flash Back 90's -> Sun Field -> D -> Don't be afraid myself
+Flash Back 90's -> Sun Field -> Destiny Sword -> Don't be afraid myself
+Flash Back 90's -> SCREAM SQUAD -> Don't be afraid myself -> F
+Flash Back 90's -> SCREAM SQUAD -> Don't be afraid myself -> fffff
+Flash Back 90's -> SCREAM SQUAD -> Don't be afraid myself -> four-leaf
+Flash Back 90's -> SOLID STATE SQUAD -> Don't be afraid myself -> F
+Flash Back 90's -> SOLID STATE SQUAD -> Don't be afraid myself -> fffff
+Flash Back 90's -> SOLID STATE SQUAD -> Don't be afraid myself -> four-leaf
+Flash Back 90's -> STAR FIELD -> Don't be afraid myself -> F
+Flash Back 90's -> STAR FIELD -> Don't be afraid myself -> fffff
+Flash Back 90's -> STAR FIELD -> Don't be afraid myself -> four-leaf
+Flash Back 90's -> STELLAR WIND -> Don't be afraid myself -> F
+Flash Back 90's -> STELLAR WIND -> Don't be afraid myself -> fffff
+Flash Back 90's -> STELLAR WIND -> Don't be afraid myself -> four-leaf
+Flash Back 90's -> Sun Field -> Don't be afraid myself -> F
+Flash Back 90's -> Sun Field -> Don't be afraid myself -> fffff
+Flash Back 90's -> Sun Field -> Don't be afraid myself -> four-leaf
+Flash Back 90's -> Scripted Connection⇒A mix -> X-rated -> Don't be afraid myself
+Flash Back 90's -> Scripted Connection⇒H mix -> X-rated -> Don't be afraid myself
+Flash Back 90's -> Scripted Connection⇒N mix -> X-rated -> Don't be afraid myself
+Flash Back 90's -> Secret of Love -> end of world -> Don't be afraid myself
+Flash Back 90's -> SHADE -> end of world -> Don't be afraid myself
+Flash Back 90's -> She is my wife -> end of world -> Don't be afraid myself
+Flash Back 90's -> Silvia Drive -> end of world -> Don't be afraid myself
+Flash Back 90's -> smile -> end of world -> Don't be afraid myself
+Flash Back 90's -> Snow Goose -> end of world -> Don't be afraid myself
+Flash Back 90's -> sometime -> end of world -> Don't be afraid myself
+Flash Back 90's -> Space Time -> end of world -> Don't be afraid myself
+Flash Back 90's -> Special One -> end of world -> Don't be afraid myself
+Flash Back 90's -> Sphere -> end of world -> Don't be afraid myself
+Flash Back 90's -> starmine -> end of world -> Don't be afraid myself
+Flash Back 90's -> Stay my side -> end of world -> Don't be afraid myself
+Flash Back 90's -> STEEL NEEDLE -> end of world -> Don't be afraid myself
+Flash Back 90's -> Sunrise -> end of world -> Don't be afraid myself
+Flash Back 90's -> Secrets -> SCREAM SQUAD -> Don't be afraid myself
+Flash Back 90's -> Secrets -> SOLID STATE SQUAD -> Don't be afraid myself
+Flash Back 90's -> Secrets -> STAR FIELD -> Don't be afraid myself
+Flash Back 90's -> Secrets -> STELLAR WIND -> Don't be afraid myself
+Flash Back 90's -> Secrets -> Sun Field -> Don't be afraid myself
+Flash Back 90's -> Several Words -> SCREAM SQUAD -> Don't be afraid myself
+Flash Back 90's -> Several Words -> SOLID STATE SQUAD -> Don't be afraid myself
+Flash Back 90's -> Several Words -> STAR FIELD -> Don't be afraid myself
+Flash Back 90's -> Several Words -> STELLAR WIND -> Don't be afraid myself
+Flash Back 90's -> Several Words -> Sun Field -> Don't be afraid myself
+Flash Back 90's -> Smell Like This -> SCREAM SQUAD -> Don't be afraid myself
+Flash Back 90's -> Smell Like This -> SOLID STATE SQUAD -> Don't be afraid myself
+Flash Back 90's -> Smell Like This -> STAR FIELD -> Don't be afraid myself
+Flash Back 90's -> Smell Like This -> STELLAR WIND -> Don't be afraid myself
+Flash Back 90's -> Smell Like This -> Sun Field -> Don't be afraid myself
+Flash Back 90's -> Sorrows -> SCREAM SQUAD -> Don't be afraid myself
+Flash Back 90's -> Sorrows -> SOLID STATE SQUAD -> Don't be afraid myself
+Flash Back 90's -> Sorrows -> STAR FIELD -> Don't be afraid myself
+Flash Back 90's -> Sorrows -> STELLAR WIND -> Don't be afraid myself
+Flash Back 90's -> Sorrows -> Sun Field -> Don't be afraid myself
+Flash Back 90's -> still my words -> SCREAM SQUAD -> Don't be afraid myself
+Flash Back 90's -> still my words -> SOLID STATE SQUAD -> Don't be afraid myself
+Flash Back 90's -> still my words -> STAR FIELD -> Don't be afraid myself
+Flash Back 90's -> still my words -> STELLAR WIND -> Don't be afraid myself
+Flash Back 90's -> still my words -> Sun Field -> Don't be afraid myself
+Flash Back 90's -> Survival Games -> SCREAM SQUAD -> Don't be afraid myself
+Flash Back 90's -> Survival Games -> SOLID STATE SQUAD -> Don't be afraid myself
+Flash Back 90's -> Survival Games -> STAR FIELD -> Don't be afraid myself
+Flash Back 90's -> Survival Games -> STELLAR WIND -> Don't be afraid myself
+Flash Back 90's -> Survival Games -> Sun Field -> Don't be afraid myself
+Flash Back 90's -> SHIFT -> Tizona d'El Cid -> Don't be afraid myself
+Flash Back 90's -> SHIFT -> TRANOID -> Don't be afraid myself
+Flash Back 90's -> SPACE FIGHT -> Tizona d'El Cid -> Don't be afraid myself
+Flash Back 90's -> SPACE FIGHT -> TRANOID -> Don't be afraid myself
+Flash Back 90's -> SPEEDY CAT -> Tizona d'El Cid -> Don't be afraid myself
+Flash Back 90's -> SPEEDY CAT -> TRANOID -> Don't be afraid myself
+Flash Back 90's -> State Of The Art -> Tizona d'El Cid -> Don't be afraid myself
+Flash Back 90's -> State Of The Art -> TRANOID -> Don't be afraid myself
+Flash Back 90's -> STILL IN MY HEART -> Tizona d'El Cid -> Don't be afraid myself
+Flash Back 90's -> STILL IN MY HEART -> TRANOID -> Don't be afraid myself
+Flash Back 90's -> Spica -> AIR RAID FROM THA UNDAGROUND -> Don't be afraid myself
+Flash Back 90's -> Spica -> ALIEN WORLD -> Don't be afraid myself
+Flash Back 90's -> Spin the disc -> Change the World -> Don't be afraid myself
+Flash Back 90's -> Spin the disc -> CROSSROAD -> Don't be afraid myself
+Flash Back 90's -> stoic -> Change the World -> Don't be afraid myself
+Flash Back 90's -> stoic -> CROSSROAD -> Don't be afraid myself
+Flash Back 90's -> Sweet Sweet ♥ Magic -> Change the World -> Don't be afraid myself
+Flash Back 90's -> Sweet Sweet ♥ Magic -> CROSSROAD -> Don't be afraid myself
+Flash Back 90's -> symbolic -> Change the World -> Don't be afraid myself
+Flash Back 90's -> symbolic -> CROSSROAD -> Don't be afraid myself
+Flash Back 90's -> sync -> Change the World -> Don't be afraid myself
+Flash Back 90's -> sync -> CROSSROAD -> Don't be afraid myself
+Follow Tomorrow -> WAR GAME -> end of world -> Don't be afraid myself
+Follow Tomorrow -> With your Smile -> end of world -> Don't be afraid myself
+Follow Tomorrow -> World Wide Love -> end of world -> Don't be afraid myself
+Follow Tomorrow -> Wonder Bullfighter -> Round and Round -> Don't be afraid myself
+foreplay -> Yellow Sunrise -> end of world -> Don't be afraid myself
+foreplay -> You Were The One -> end of world -> Don't be afraid myself

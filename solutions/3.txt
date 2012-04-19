@@ -1,0 +1,236 @@
+**3**
+3y3s -> SABER WING -> garden -> No.13
+3y3s -> SABER WING -> Golden Horn -> No.13
+3y3s -> SigSig -> garden -> No.13
+3y3s -> SigSig -> Golden Horn -> No.13
+3y3s -> SABER WING -> GRADIUSIC CYBER -> R3
+3y3s -> SigSig -> GRADIUSIC CYBER -> R3
+3y3s -> Sakura Reflection -> NEBULA GRASPER -> R3
+3y3s -> Sakura Reflection -> Now and Forever -> R3
+3y3s -> Second Heaven -> NEBULA GRASPER -> R3
+3y3s -> Second Heaven -> Now and Forever -> R3
+3y3s -> SOUND OF GIALLARHORN -> NEBULA GRASPER -> R3
+3y3s -> SOUND OF GIALLARHORN -> Now and Forever -> R3
+3y3s -> sakura storm -> Make Me Your Own -> No.13
+3y3s -> sakura storm -> MENTAL MELTDOWN -> No.13
+3y3s -> sakura storm -> minimalian -> No.13
+3y3s -> sakura storm -> MOON -> No.13
+3y3s -> snow storm -> Make Me Your Own -> No.13
+3y3s -> snow storm -> MENTAL MELTDOWN -> No.13
+3y3s -> snow storm -> minimalian -> No.13
+3y3s -> snow storm -> MOON -> No.13
+3y3s -> SOLITON BEAM -> Make Me Your Own -> No.13
+3y3s -> SOLITON BEAM -> MENTAL MELTDOWN -> No.13
+3y3s -> SOLITON BEAM -> minimalian -> No.13
+3y3s -> SOLITON BEAM -> MOON -> No.13
+3y3s -> sakura storm -> My Only Shining Star -> R3
+3y3s -> snow storm -> My Only Shining Star -> R3
+3y3s -> SOLITON BEAM -> My Only Shining Star -> R3
+3y3s -> satfinal -> La Mar -> R3
+3y3s -> satfinal -> LASER CRUSTER -> R3
+3y3s -> satfinal -> LEADING CYBER -> R3
+3y3s -> Star Trail -> La Mar -> R3
+3y3s -> Star Trail -> LASER CRUSTER -> R3
+3y3s -> Star Trail -> LEADING CYBER -> R3
+3y3s -> SA.YO.NA.RA. SUPER STAR -> rainbow flyer -> R3
+3y3s -> SHOOTING STAR -> rainbow flyer -> R3
+3y3s -> Skyscraper -> rainbow flyer -> R3
+3y3s -> SA.YO.NA.RA. SUPER STAR -> REINCARNATION -> No.13
+3y3s -> SA.YO.NA.RA. SUPER STAR -> reunion -> No.13
+3y3s -> SA.YO.NA.RA. SUPER STAR -> rottel-da-sun -> No.13
+3y3s -> SHOOTING STAR -> REINCARNATION -> No.13
+3y3s -> SHOOTING STAR -> reunion -> No.13
+3y3s -> SHOOTING STAR -> rottel-da-sun -> No.13
+3y3s -> Skyscraper -> REINCARNATION -> No.13
+3y3s -> Skyscraper -> reunion -> No.13
+3y3s -> Skyscraper -> rottel-da-sun -> No.13
+3y3s -> scar in the earth -> HALF MOON -> No.13
+3y3s -> scar in the earth -> HORIZON -> No.13
+3y3s -> scar in the earth -> HYPERION -> No.13
+3y3s -> scar in the earth -> HIGHER -> R3
+3y3s -> SCREAM SQUAD -> D2R -> R3
+3y3s -> SCREAM SQUAD -> DANCER -> R3
+3y3s -> SCREAM SQUAD -> DAYDREAMER -> R3
+3y3s -> SCREAM SQUAD -> DEEP ROAR -> R3
+3y3s -> SCREAM SQUAD -> Drop on the floor -> R3
+3y3s -> SOLID STATE SQUAD -> D2R -> R3
+3y3s -> SOLID STATE SQUAD -> DANCER -> R3
+3y3s -> SOLID STATE SQUAD -> DAYDREAMER -> R3
+3y3s -> SOLID STATE SQUAD -> DEEP ROAR -> R3
+3y3s -> SOLID STATE SQUAD -> Drop on the floor -> R3
+3y3s -> STAR FIELD -> D2R -> R3
+3y3s -> STAR FIELD -> DANCER -> R3
+3y3s -> STAR FIELD -> DAYDREAMER -> R3
+3y3s -> STAR FIELD -> DEEP ROAR -> R3
+3y3s -> STAR FIELD -> Drop on the floor -> R3
+3y3s -> STELLAR WIND -> D2R -> R3
+3y3s -> STELLAR WIND -> DANCER -> R3
+3y3s -> STELLAR WIND -> DAYDREAMER -> R3
+3y3s -> STELLAR WIND -> DEEP ROAR -> R3
+3y3s -> STELLAR WIND -> Drop on the floor -> R3
+3y3s -> Sun Field -> D2R -> R3
+3y3s -> Sun Field -> DANCER -> R3
+3y3s -> Sun Field -> DAYDREAMER -> R3
+3y3s -> Sun Field -> DEEP ROAR -> R3
+3y3s -> Sun Field -> Drop on the floor -> R3
+3y3s -> SCREAM SQUAD -> Dazzlin' Darlin -> No.13
+3y3s -> SCREAM SQUAD -> desolation -> No.13
+3y3s -> SCREAM SQUAD -> DOMINION -> No.13
+3y3s -> SCREAM SQUAD -> Dreamin' Sun -> No.13
+3y3s -> SOLID STATE SQUAD -> Dazzlin' Darlin -> No.13
+3y3s -> SOLID STATE SQUAD -> desolation -> No.13
+3y3s -> SOLID STATE SQUAD -> DOMINION -> No.13
+3y3s -> SOLID STATE SQUAD -> Dreamin' Sun -> No.13
+3y3s -> STAR FIELD -> Dazzlin' Darlin -> No.13
+3y3s -> STAR FIELD -> desolation -> No.13
+3y3s -> STAR FIELD -> DOMINION -> No.13
+3y3s -> STAR FIELD -> Dreamin' Sun -> No.13
+3y3s -> STELLAR WIND -> Dazzlin' Darlin -> No.13
+3y3s -> STELLAR WIND -> desolation -> No.13
+3y3s -> STELLAR WIND -> DOMINION -> No.13
+3y3s -> STELLAR WIND -> Dreamin' Sun -> No.13
+3y3s -> Sun Field -> Dazzlin' Darlin -> No.13
+3y3s -> Sun Field -> desolation -> No.13
+3y3s -> Sun Field -> DOMINION -> No.13
+3y3s -> Sun Field -> Dreamin' Sun -> No.13
+3y3s -> Scripted Connection⇒A mix -> xenon -> No.13
+3y3s -> Scripted Connection⇒H mix -> xenon -> No.13
+3y3s -> Scripted Connection⇒N mix -> xenon -> No.13
+3y3s -> Scripted Connection⇒A mix -> Xepher -> R3
+3y3s -> Scripted Connection⇒H mix -> Xepher -> R3
+3y3s -> Scripted Connection⇒N mix -> Xepher -> R3
+3y3s -> Secret of Love -> EDEN -> No.13
+3y3s -> Secret of Love -> evergreen -> No.13
+3y3s -> Secret of Love -> Express Emotion -> No.13
+3y3s -> SHADE -> EDEN -> No.13
+3y3s -> SHADE -> evergreen -> No.13
+3y3s -> SHADE -> Express Emotion -> No.13
+3y3s -> She is my wife -> EDEN -> No.13
+3y3s -> She is my wife -> evergreen -> No.13
+3y3s -> She is my wife -> Express Emotion -> No.13
+3y3s -> Silvia Drive -> EDEN -> No.13
+3y3s -> Silvia Drive -> evergreen -> No.13
+3y3s -> Silvia Drive -> Express Emotion -> No.13
+3y3s -> smile -> EDEN -> No.13
+3y3s -> smile -> evergreen -> No.13
+3y3s -> smile -> Express Emotion -> No.13
+3y3s -> Snow Goose -> EDEN -> No.13
+3y3s -> Snow Goose -> evergreen -> No.13
+3y3s -> Snow Goose -> Express Emotion -> No.13
+3y3s -> sometime -> EDEN -> No.13
+3y3s -> sometime -> evergreen -> No.13
+3y3s -> sometime -> Express Emotion -> No.13
+3y3s -> Space Time -> EDEN -> No.13
+3y3s -> Space Time -> evergreen -> No.13
+3y3s -> Space Time -> Express Emotion -> No.13
+3y3s -> Special One -> EDEN -> No.13
+3y3s -> Special One -> evergreen -> No.13
+3y3s -> Special One -> Express Emotion -> No.13
+3y3s -> Sphere -> EDEN -> No.13
+3y3s -> Sphere -> evergreen -> No.13
+3y3s -> Sphere -> Express Emotion -> No.13
+3y3s -> starmine -> EDEN -> No.13
+3y3s -> starmine -> evergreen -> No.13
+3y3s -> starmine -> Express Emotion -> No.13
+3y3s -> Stay my side -> EDEN -> No.13
+3y3s -> Stay my side -> evergreen -> No.13
+3y3s -> Stay my side -> Express Emotion -> No.13
+3y3s -> STEEL NEEDLE -> EDEN -> No.13
+3y3s -> STEEL NEEDLE -> evergreen -> No.13
+3y3s -> STEEL NEEDLE -> Express Emotion -> No.13
+3y3s -> Sunrise -> EDEN -> No.13
+3y3s -> Sunrise -> evergreen -> No.13
+3y3s -> Sunrise -> Express Emotion -> No.13
+3y3s -> Secret of Love -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> SHADE -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> She is my wife -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Silvia Drive -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> smile -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Snow Goose -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> sometime -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Space Time -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Special One -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Sphere -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> starmine -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Stay my side -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> STEEL NEEDLE -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Sunrise -> ELECTRIC MASSIVE DIVER -> R3
+3y3s -> Secrets -> Sakura Reflection -> No.13
+3y3s -> Secrets -> Second Heaven -> No.13
+3y3s -> Secrets -> SOUND OF GIALLARHORN -> No.13
+3y3s -> Several Words -> Sakura Reflection -> No.13
+3y3s -> Several Words -> Second Heaven -> No.13
+3y3s -> Several Words -> SOUND OF GIALLARHORN -> No.13
+3y3s -> Smell Like This -> Sakura Reflection -> No.13
+3y3s -> Smell Like This -> Second Heaven -> No.13
+3y3s -> Smell Like This -> SOUND OF GIALLARHORN -> No.13
+3y3s -> Sorrows -> Sakura Reflection -> No.13
+3y3s -> Sorrows -> Second Heaven -> No.13
+3y3s -> Sorrows -> SOUND OF GIALLARHORN -> No.13
+3y3s -> still my words -> Sakura Reflection -> No.13
+3y3s -> still my words -> Second Heaven -> No.13
+3y3s -> still my words -> SOUND OF GIALLARHORN -> No.13
+3y3s -> Survival Games -> Sakura Reflection -> No.13
+3y3s -> Survival Games -> Second Heaven -> No.13
+3y3s -> Survival Games -> SOUND OF GIALLARHORN -> No.13
+3y3s -> Secrets -> SA.YO.NA.RA. SUPER STAR -> R3
+3y3s -> Secrets -> SHOOTING STAR -> R3
+3y3s -> Secrets -> Skyscraper -> R3
+3y3s -> Several Words -> SA.YO.NA.RA. SUPER STAR -> R3
+3y3s -> Several Words -> SHOOTING STAR -> R3
+3y3s -> Several Words -> Skyscraper -> R3
+3y3s -> Smell Like This -> SA.YO.NA.RA. SUPER STAR -> R3
+3y3s -> Smell Like This -> SHOOTING STAR -> R3
+3y3s -> Smell Like This -> Skyscraper -> R3
+3y3s -> Sorrows -> SA.YO.NA.RA. SUPER STAR -> R3
+3y3s -> Sorrows -> SHOOTING STAR -> R3
+3y3s -> Sorrows -> Skyscraper -> R3
+3y3s -> still my words -> SA.YO.NA.RA. SUPER STAR -> R3
+3y3s -> still my words -> SHOOTING STAR -> R3
+3y3s -> still my words -> Skyscraper -> R3
+3y3s -> Survival Games -> SA.YO.NA.RA. SUPER STAR -> R3
+3y3s -> Survival Games -> SHOOTING STAR -> R3
+3y3s -> Survival Games -> Skyscraper -> R3
+3y3s -> SHIFT -> Take Me Higher -> R3
+3y3s -> SHIFT -> THE DEEP STRIKER -> R3
+3y3s -> SHIFT -> THE LAST STRIKER -> R3
+3y3s -> SHIFT -> thunder -> R3
+3y3s -> SHIFT -> Time to Air -> R3
+3y3s -> SPACE FIGHT -> Take Me Higher -> R3
+3y3s -> SPACE FIGHT -> THE DEEP STRIKER -> R3
+3y3s -> SPACE FIGHT -> THE LAST STRIKER -> R3
+3y3s -> SPACE FIGHT -> thunder -> R3
+3y3s -> SPACE FIGHT -> Time to Air -> R3
+3y3s -> SPEEDY CAT -> Take Me Higher -> R3
+3y3s -> SPEEDY CAT -> THE DEEP STRIKER -> R3
+3y3s -> SPEEDY CAT -> THE LAST STRIKER -> R3
+3y3s -> SPEEDY CAT -> thunder -> R3
+3y3s -> SPEEDY CAT -> Time to Air -> R3
+3y3s -> State Of The Art -> Take Me Higher -> R3
+3y3s -> State Of The Art -> THE DEEP STRIKER -> R3
+3y3s -> State Of The Art -> THE LAST STRIKER -> R3
+3y3s -> State Of The Art -> thunder -> R3
+3y3s -> State Of The Art -> Time to Air -> R3
+3y3s -> STILL IN MY HEART -> Take Me Higher -> R3
+3y3s -> STILL IN MY HEART -> THE DEEP STRIKER -> R3
+3y3s -> STILL IN MY HEART -> THE LAST STRIKER -> R3
+3y3s -> STILL IN MY HEART -> thunder -> R3
+3y3s -> STILL IN MY HEART -> Time to Air -> R3
+3y3s -> SHIFT -> THE FALLEN -> No.13
+3y3s -> SPACE FIGHT -> THE FALLEN -> No.13
+3y3s -> SPEEDY CAT -> THE FALLEN -> No.13
+3y3s -> State Of The Art -> THE FALLEN -> No.13
+3y3s -> STILL IN MY HEART -> THE FALLEN -> No.13
+3y3s -> SNOW -> WE LOVE SHONAN -> No.13
+3y3s -> SNOW -> Wonder Bullfighter -> R3
+3y3s -> Spica -> Answer -> R3
+3y3s -> Spin the disc -> Cheer Train -> No.13
+3y3s -> Spin the disc -> Click Again -> No.13
+3y3s -> stoic -> Cheer Train -> No.13
+3y3s -> stoic -> Click Again -> No.13
+3y3s -> Sweet Sweet ♥ Magic -> Cheer Train -> No.13
+3y3s -> Sweet Sweet ♥ Magic -> Click Again -> No.13
+3y3s -> symbolic -> Cheer Train -> No.13
+3y3s -> symbolic -> Click Again -> No.13
+3y3s -> sync -> Cheer Train -> No.13
+3y3s -> sync -> Click Again -> No.13

@@ -1,0 +1,835 @@
+**P**
+pandora -> A -> AIR RAID FROM THA UNDAGROUND -> DROP
+pandora -> A -> ALIEN WORLD -> DROP
+pandora -> AA -> AIR RAID FROM THA UNDAGROUND -> DROP
+pandora -> AA -> ALIEN WORLD -> DROP
+pandora -> AGEHA -> AIR RAID FROM THA UNDAGROUND -> DROP
+pandora -> AGEHA -> ALIEN WORLD -> DROP
+pandora -> ALBIDA -> AIR RAID FROM THA UNDAGROUND -> DROP
+pandora -> ALBIDA -> ALIEN WORLD -> DROP
+pandora -> ANDROMEDA -> AIR RAID FROM THA UNDAGROUND -> DROP
+pandora -> ANDROMEDA -> ALIEN WORLD -> DROP
+pandora -> Aurora -> AIR RAID FROM THA UNDAGROUND -> DROP
+pandora -> Aurora -> ALIEN WORLD -> DROP
+pandora -> AVE DE RAPINA -> AIR RAID FROM THA UNDAGROUND -> DROP
+pandora -> AVE DE RAPINA -> ALIEN WORLD -> DROP
+PLASMA -> A -> AIR RAID FROM THA UNDAGROUND -> DROP
+PLASMA -> A -> ALIEN WORLD -> DROP
+PLASMA -> AA -> AIR RAID FROM THA UNDAGROUND -> DROP
+PLASMA -> AA -> ALIEN WORLD -> DROP
+PLASMA -> AGEHA -> AIR RAID FROM THA UNDAGROUND -> DROP
+PLASMA -> AGEHA -> ALIEN WORLD -> DROP
+PLASMA -> ALBIDA -> AIR RAID FROM THA UNDAGROUND -> DROP
+PLASMA -> ALBIDA -> ALIEN WORLD -> DROP
+PLASMA -> ANDROMEDA -> AIR RAID FROM THA UNDAGROUND -> DROP
+PLASMA -> ANDROMEDA -> ALIEN WORLD -> DROP
+PLASMA -> Aurora -> AIR RAID FROM THA UNDAGROUND -> DROP
+PLASMA -> Aurora -> ALIEN WORLD -> DROP
+PLASMA -> AVE DE RAPINA -> AIR RAID FROM THA UNDAGROUND -> DROP
+PLASMA -> AVE DE RAPINA -> ALIEN WORLD -> DROP
+pandora -> ABSOLUTE -> end of world -> DROP
+pandora -> ADVANCE -> end of world -> DROP
+pandora -> ALIEN TEMPLE -> end of world -> DROP
+pandora -> ALL I NEED YOUR LOVE -> end of world -> DROP
+pandora -> alla turca con passione -> end of world -> DROP
+pandora -> Almace -> end of world -> DROP
+pandora -> ASTRAL VOYAGE -> end of world -> DROP
+pandora -> Attitude -> end of world -> DROP
+pandora -> avant-guerre -> end of world -> DROP
+PLASMA -> ABSOLUTE -> end of world -> DROP
+PLASMA -> ADVANCE -> end of world -> DROP
+PLASMA -> ALIEN TEMPLE -> end of world -> DROP
+PLASMA -> ALL I NEED YOUR LOVE -> end of world -> DROP
+PLASMA -> alla turca con passione -> end of world -> DROP
+PLASMA -> Almace -> end of world -> DROP
+PLASMA -> ASTRAL VOYAGE -> end of world -> DROP
+PLASMA -> Attitude -> end of world -> DROP
+PLASMA -> avant-guerre -> end of world -> DROP
+pandora -> abstract -> Tizona d'El Cid -> DROP
+pandora -> abstract -> TRANOID -> DROP
+pandora -> ACT -> Tizona d'El Cid -> DROP
+pandora -> ACT -> TRANOID -> DROP
+pandora -> ALL RIGHT -> Tizona d'El Cid -> DROP
+pandora -> ALL RIGHT -> TRANOID -> DROP
+pandora -> Almagest -> Tizona d'El Cid -> DROP
+pandora -> Almagest -> TRANOID -> DROP
+pandora -> Arabian Rave Night -> Tizona d'El Cid -> DROP
+pandora -> Arabian Rave Night -> TRANOID -> DROP
+PLASMA -> abstract -> Tizona d'El Cid -> DROP
+PLASMA -> abstract -> TRANOID -> DROP
+PLASMA -> ACT -> Tizona d'El Cid -> DROP
+PLASMA -> ACT -> TRANOID -> DROP
+PLASMA -> ALL RIGHT -> Tizona d'El Cid -> DROP
+PLASMA -> ALL RIGHT -> TRANOID -> DROP
+PLASMA -> Almagest -> Tizona d'El Cid -> DROP
+PLASMA -> Almagest -> TRANOID -> DROP
+PLASMA -> Arabian Rave Night -> Tizona d'El Cid -> DROP
+PLASMA -> Arabian Rave Night -> TRANOID -> DROP
+pandora -> Abyss -> SCREAM SQUAD -> DROP
+pandora -> Abyss -> SOLID STATE SQUAD -> DROP
+pandora -> Abyss -> STAR FIELD -> DROP
+pandora -> Abyss -> STELLAR WIND -> DROP
+pandora -> Abyss -> Sun Field -> DROP
+pandora -> Aegis -> SCREAM SQUAD -> DROP
+pandora -> Aegis -> SOLID STATE SQUAD -> DROP
+pandora -> Aegis -> STAR FIELD -> DROP
+pandora -> Aegis -> STELLAR WIND -> DROP
+pandora -> Aegis -> Sun Field -> DROP
+PLASMA -> Abyss -> SCREAM SQUAD -> DROP
+PLASMA -> Abyss -> SOLID STATE SQUAD -> DROP
+PLASMA -> Abyss -> STAR FIELD -> DROP
+PLASMA -> Abyss -> STELLAR WIND -> DROP
+PLASMA -> Abyss -> Sun Field -> DROP
+PLASMA -> Aegis -> SCREAM SQUAD -> DROP
+PLASMA -> Aegis -> SOLID STATE SQUAD -> DROP
+PLASMA -> Aegis -> STAR FIELD -> DROP
+PLASMA -> Aegis -> STELLAR WIND -> DROP
+PLASMA -> Aegis -> Sun Field -> DROP
+pandora -> Air Bell -> lower world -> DROP
+PLASMA -> Air Bell -> lower world -> DROP
+pandora -> AIR RAID FROM THA UNDAGROUND -> D -> DROP
+pandora -> AIR RAID FROM THA UNDAGROUND -> Destiny Sword -> DROP
+pandora -> ALIEN WORLD -> D -> DROP
+pandora -> ALIEN WORLD -> Destiny Sword -> DROP
+PLASMA -> AIR RAID FROM THA UNDAGROUND -> D -> DROP
+PLASMA -> AIR RAID FROM THA UNDAGROUND -> Destiny Sword -> DROP
+PLASMA -> ALIEN WORLD -> D -> DROP
+PLASMA -> ALIEN WORLD -> Destiny Sword -> DROP
+pandora -> Answer -> Round and Round -> DROP
+PLASMA -> Answer -> Round and Round -> DROP
+PARADISE LOST -> Take Me Higher -> Round and Round -> DROP
+PARADISE LOST -> THE DEEP STRIKER -> Round and Round -> DROP
+PARADISE LOST -> THE LAST STRIKER -> Round and Round -> DROP
+PARADISE LOST -> thunder -> Round and Round -> DROP
+PARADISE LOST -> Time to Air -> Round and Round -> DROP
+prompt -> Take Me Higher -> Round and Round -> DROP
+prompt -> THE DEEP STRIKER -> Round and Round -> DROP
+prompt -> THE LAST STRIKER -> Round and Round -> DROP
+prompt -> thunder -> Round and Round -> DROP
+prompt -> Time to Air -> Round and Round -> DROP
+PARADISE LOST -> Tangerine Stream -> METALLIC MIND -> DROP
+PARADISE LOST -> Tangerine Stream -> moon_child -> DROP
+PARADISE LOST -> Tangerine Stream -> MUSIC TO YOUR HEAD -> DROP
+prompt -> Tangerine Stream -> METALLIC MIND -> DROP
+prompt -> Tangerine Stream -> moon_child -> DROP
+prompt -> Tangerine Stream -> MUSIC TO YOUR HEAD -> DROP
+PARADISE LOST -> THE BLACK KNIGHT -> Tizona d'El Cid -> DROP
+PARADISE LOST -> THE BLACK KNIGHT -> TRANOID -> DROP
+PARADISE LOST -> THE EARTH LIGHT -> Tizona d'El Cid -> DROP
+PARADISE LOST -> THE EARTH LIGHT -> TRANOID -> DROP
+PARADISE LOST -> Thunderbolt -> Tizona d'El Cid -> DROP
+PARADISE LOST -> Thunderbolt -> TRANOID -> DROP
+PARADISE LOST -> tripping contact -> Tizona d'El Cid -> DROP
+PARADISE LOST -> tripping contact -> TRANOID -> DROP
+prompt -> THE BLACK KNIGHT -> Tizona d'El Cid -> DROP
+prompt -> THE BLACK KNIGHT -> TRANOID -> DROP
+prompt -> THE EARTH LIGHT -> Tizona d'El Cid -> DROP
+prompt -> THE EARTH LIGHT -> TRANOID -> DROP
+prompt -> Thunderbolt -> Tizona d'El Cid -> DROP
+prompt -> Thunderbolt -> TRANOID -> DROP
+prompt -> tripping contact -> Tizona d'El Cid -> DROP
+prompt -> tripping contact -> TRANOID -> DROP
+PARADISE LOST -> THE CUBE -> end of world -> DROP
+PARADISE LOST -> the trigger of innocence -> end of world -> DROP
+PARADISE LOST -> This is Love -> end of world -> DROP
+PARADISE LOST -> To the Future -> end of world -> DROP
+PARADISE LOST -> Tomorrow Perfume -> end of world -> DROP
+PARADISE LOST -> Twelfth Style -> end of world -> DROP
+prompt -> THE CUBE -> end of world -> DROP
+prompt -> the trigger of innocence -> end of world -> DROP
+prompt -> This is Love -> end of world -> DROP
+prompt -> To the Future -> end of world -> DROP
+prompt -> Tomorrow Perfume -> end of world -> DROP
+prompt -> Twelfth Style -> end of world -> DROP
+PARADISE LOST -> The Dirty of Loudness -> SCREAM SQUAD -> DROP
+PARADISE LOST -> The Dirty of Loudness -> SOLID STATE SQUAD -> DROP
+PARADISE LOST -> The Dirty of Loudness -> STAR FIELD -> DROP
+PARADISE LOST -> The Dirty of Loudness -> STELLAR WIND -> DROP
+PARADISE LOST -> The Dirty of Loudness -> Sun Field -> DROP
+PARADISE LOST -> THE SHINING POLARIS -> SCREAM SQUAD -> DROP
+PARADISE LOST -> THE SHINING POLARIS -> SOLID STATE SQUAD -> DROP
+PARADISE LOST -> THE SHINING POLARIS -> STAR FIELD -> DROP
+PARADISE LOST -> THE SHINING POLARIS -> STELLAR WIND -> DROP
+PARADISE LOST -> THE SHINING POLARIS -> Sun Field -> DROP
+PARADISE LOST -> The Story Begins -> SCREAM SQUAD -> DROP
+PARADISE LOST -> The Story Begins -> SOLID STATE SQUAD -> DROP
+PARADISE LOST -> The Story Begins -> STAR FIELD -> DROP
+PARADISE LOST -> The Story Begins -> STELLAR WIND -> DROP
+PARADISE LOST -> The Story Begins -> Sun Field -> DROP
+PARADISE LOST -> traces -> SCREAM SQUAD -> DROP
+PARADISE LOST -> traces -> SOLID STATE SQUAD -> DROP
+PARADISE LOST -> traces -> STAR FIELD -> DROP
+PARADISE LOST -> traces -> STELLAR WIND -> DROP
+PARADISE LOST -> traces -> Sun Field -> DROP
+PARADISE LOST -> TROOPERS -> SCREAM SQUAD -> DROP
+PARADISE LOST -> TROOPERS -> SOLID STATE SQUAD -> DROP
+PARADISE LOST -> TROOPERS -> STAR FIELD -> DROP
+PARADISE LOST -> TROOPERS -> STELLAR WIND -> DROP
+PARADISE LOST -> TROOPERS -> Sun Field -> DROP
+prompt -> The Dirty of Loudness -> SCREAM SQUAD -> DROP
+prompt -> The Dirty of Loudness -> SOLID STATE SQUAD -> DROP
+prompt -> The Dirty of Loudness -> STAR FIELD -> DROP
+prompt -> The Dirty of Loudness -> STELLAR WIND -> DROP
+prompt -> The Dirty of Loudness -> Sun Field -> DROP
+prompt -> THE SHINING POLARIS -> SCREAM SQUAD -> DROP
+prompt -> THE SHINING POLARIS -> SOLID STATE SQUAD -> DROP
+prompt -> THE SHINING POLARIS -> STAR FIELD -> DROP
+prompt -> THE SHINING POLARIS -> STELLAR WIND -> DROP
+prompt -> THE SHINING POLARIS -> Sun Field -> DROP
+prompt -> The Story Begins -> SCREAM SQUAD -> DROP
+prompt -> The Story Begins -> SOLID STATE SQUAD -> DROP
+prompt -> The Story Begins -> STAR FIELD -> DROP
+prompt -> The Story Begins -> STELLAR WIND -> DROP
+prompt -> The Story Begins -> Sun Field -> DROP
+prompt -> traces -> SCREAM SQUAD -> DROP
+prompt -> traces -> SOLID STATE SQUAD -> DROP
+prompt -> traces -> STAR FIELD -> DROP
+prompt -> traces -> STELLAR WIND -> DROP
+prompt -> traces -> Sun Field -> DROP
+prompt -> TROOPERS -> SCREAM SQUAD -> DROP
+prompt -> TROOPERS -> SOLID STATE SQUAD -> DROP
+prompt -> TROOPERS -> STAR FIELD -> DROP
+prompt -> TROOPERS -> STELLAR WIND -> DROP
+prompt -> TROOPERS -> Sun Field -> DROP
+PARADISE LOST -> Tizona d'El Cid -> D -> DROP
+PARADISE LOST -> Tizona d'El Cid -> Destiny Sword -> DROP
+PARADISE LOST -> TRANOID -> D -> DROP
+PARADISE LOST -> TRANOID -> Destiny Sword -> DROP
+prompt -> Tizona d'El Cid -> D -> DROP
+prompt -> Tizona d'El Cid -> Destiny Sword -> DROP
+prompt -> TRANOID -> D -> DROP
+prompt -> TRANOID -> Destiny Sword -> DROP
+PARADISE LOST -> Tropical April -> lower world -> DROP
+prompt -> Tropical April -> lower world -> DROP
+Parasite World -> D -> Destiny Sword -> DROP
+Parasite World -> Destiny Sword -> D -> DROP
+Programmed World -> D -> Destiny Sword -> DROP
+Programmed World -> Destiny Sword -> D -> DROP
+Parasite World -> D2R -> Round and Round -> DROP
+Parasite World -> DANCER -> Round and Round -> DROP
+Parasite World -> DAYDREAMER -> Round and Round -> DROP
+Parasite World -> DEEP ROAR -> Round and Round -> DROP
+Parasite World -> Drop on the floor -> Round and Round -> DROP
+Programmed World -> D2R -> Round and Round -> DROP
+Programmed World -> DANCER -> Round and Round -> DROP
+Programmed World -> DAYDREAMER -> Round and Round -> DROP
+Programmed World -> DEEP ROAR -> Round and Round -> DROP
+Programmed World -> Drop on the floor -> Round and Round -> DROP
+Parasite World -> Daisuke -> end of world -> DROP
+Parasite World -> DESIRE -> end of world -> DROP
+Parasite World -> dissolve -> end of world -> DROP
+Parasite World -> Dr.LOVE -> end of world -> DROP
+Programmed World -> Daisuke -> end of world -> DROP
+Programmed World -> DESIRE -> end of world -> DROP
+Programmed World -> dissolve -> end of world -> DROP
+Programmed World -> Dr.LOVE -> end of world -> DROP
+Parasite World -> Dances with Snow Fairies -> SCREAM SQUAD -> DROP
+Parasite World -> Dances with Snow Fairies -> SOLID STATE SQUAD -> DROP
+Parasite World -> Dances with Snow Fairies -> STAR FIELD -> DROP
+Parasite World -> Dances with Snow Fairies -> STELLAR WIND -> DROP
+Parasite World -> Dances with Snow Fairies -> Sun Field -> DROP
+Parasite World -> Distress -> SCREAM SQUAD -> DROP
+Parasite World -> Distress -> SOLID STATE SQUAD -> DROP
+Parasite World -> Distress -> STAR FIELD -> DROP
+Parasite World -> Distress -> STELLAR WIND -> DROP
+Parasite World -> Distress -> Sun Field -> DROP
+Parasite World -> Dreaming Sweetness -> SCREAM SQUAD -> DROP
+Parasite World -> Dreaming Sweetness -> SOLID STATE SQUAD -> DROP
+Parasite World -> Dreaming Sweetness -> STAR FIELD -> DROP
+Parasite World -> Dreaming Sweetness -> STELLAR WIND -> DROP
+Parasite World -> Dreaming Sweetness -> Sun Field -> DROP
+Programmed World -> Dances with Snow Fairies -> SCREAM SQUAD -> DROP
+Programmed World -> Dances with Snow Fairies -> SOLID STATE SQUAD -> DROP
+Programmed World -> Dances with Snow Fairies -> STAR FIELD -> DROP
+Programmed World -> Dances with Snow Fairies -> STELLAR WIND -> DROP
+Programmed World -> Dances with Snow Fairies -> Sun Field -> DROP
+Programmed World -> Distress -> SCREAM SQUAD -> DROP
+Programmed World -> Distress -> SOLID STATE SQUAD -> DROP
+Programmed World -> Distress -> STAR FIELD -> DROP
+Programmed World -> Distress -> STELLAR WIND -> DROP
+Programmed World -> Distress -> Sun Field -> DROP
+Programmed World -> Dreaming Sweetness -> SCREAM SQUAD -> DROP
+Programmed World -> Dreaming Sweetness -> SOLID STATE SQUAD -> DROP
+Programmed World -> Dreaming Sweetness -> STAR FIELD -> DROP
+Programmed World -> Dreaming Sweetness -> STELLAR WIND -> DROP
+Programmed World -> Dreaming Sweetness -> Sun Field -> DROP
+Parasite World -> Dancin' Into The Night -> Tizona d'El Cid -> DROP
+Parasite World -> Dancin' Into The Night -> TRANOID -> DROP
+Parasite World -> Double ♥♥ Loving Heart -> Tizona d'El Cid -> DROP
+Parasite World -> Double ♥♥ Loving Heart -> TRANOID -> DROP
+Programmed World -> Dancin' Into The Night -> Tizona d'El Cid -> DROP
+Programmed World -> Dancin' Into The Night -> TRANOID -> DROP
+Programmed World -> Double ♥♥ Loving Heart -> Tizona d'El Cid -> DROP
+Programmed World -> Double ♥♥ Loving Heart -> TRANOID -> DROP
+Parasite World -> Digitank System -> METALLIC MIND -> DROP
+Parasite World -> Digitank System -> moon_child -> DROP
+Parasite World -> Digitank System -> MUSIC TO YOUR HEAD -> DROP
+Programmed World -> Digitank System -> METALLIC MIND -> DROP
+Programmed World -> Digitank System -> moon_child -> DROP
+Programmed World -> Digitank System -> MUSIC TO YOUR HEAD -> DROP
+Parasite World -> DoLL -> lower world -> DROP
+Parasite World -> dual control -> lower world -> DROP
+Programmed World -> DoLL -> lower world -> DROP
+Programmed World -> dual control -> lower world -> DROP
+Parasite World -> Don't be afraid myself -> Far east nightbird -> DROP
+Programmed World -> Don't be afraid myself -> Far east nightbird -> DROP
+passionate fate -> earth scape -> end of world -> DROP
+passionate fate -> Energy Drive -> end of world -> DROP
+passionate fate -> Enjoy your life -> end of world -> DROP
+passionate fate -> entrance -> end of world -> DROP
+passionate fate -> EURO-ROMANCE -> end of world -> DROP
+passionate fate -> EXE -> end of world -> DROP
+Pink Rose -> earth scape -> end of world -> DROP
+Pink Rose -> Energy Drive -> end of world -> DROP
+Pink Rose -> Enjoy your life -> end of world -> DROP
+Pink Rose -> entrance -> end of world -> DROP
+Pink Rose -> EURO-ROMANCE -> end of world -> DROP
+Pink Rose -> EXE -> end of world -> DROP
+POODLE -> earth scape -> end of world -> DROP
+POODLE -> Energy Drive -> end of world -> DROP
+POODLE -> Enjoy your life -> end of world -> DROP
+POODLE -> entrance -> end of world -> DROP
+POODLE -> EURO-ROMANCE -> end of world -> DROP
+POODLE -> EXE -> end of world -> DROP
+Power of Love -> earth scape -> end of world -> DROP
+Power of Love -> Energy Drive -> end of world -> DROP
+Power of Love -> Enjoy your life -> end of world -> DROP
+Power of Love -> entrance -> end of world -> DROP
+Power of Love -> EURO-ROMANCE -> end of world -> DROP
+Power of Love -> EXE -> end of world -> DROP
+Prelude -> earth scape -> end of world -> DROP
+Prelude -> Energy Drive -> end of world -> DROP
+Prelude -> Enjoy your life -> end of world -> DROP
+Prelude -> entrance -> end of world -> DROP
+Prelude -> EURO-ROMANCE -> end of world -> DROP
+Prelude -> EXE -> end of world -> DROP
+Programmed Life -> earth scape -> end of world -> DROP
+Programmed Life -> Energy Drive -> end of world -> DROP
+Programmed Life -> Enjoy your life -> end of world -> DROP
+Programmed Life -> entrance -> end of world -> DROP
+Programmed Life -> EURO-ROMANCE -> end of world -> DROP
+Programmed Life -> EXE -> end of world -> DROP
+PROMISE FOR LIFE -> earth scape -> end of world -> DROP
+PROMISE FOR LIFE -> Energy Drive -> end of world -> DROP
+PROMISE FOR LIFE -> Enjoy your life -> end of world -> DROP
+PROMISE FOR LIFE -> entrance -> end of world -> DROP
+PROMISE FOR LIFE -> EURO-ROMANCE -> end of world -> DROP
+PROMISE FOR LIFE -> EXE -> end of world -> DROP
+passionate fate -> ECHOES -> SCREAM SQUAD -> DROP
+passionate fate -> ECHOES -> SOLID STATE SQUAD -> DROP
+passionate fate -> ECHOES -> STAR FIELD -> DROP
+passionate fate -> ECHOES -> STELLAR WIND -> DROP
+passionate fate -> ECHOES -> Sun Field -> DROP
+passionate fate -> Eternal Tears -> SCREAM SQUAD -> DROP
+passionate fate -> Eternal Tears -> SOLID STATE SQUAD -> DROP
+passionate fate -> Eternal Tears -> STAR FIELD -> DROP
+passionate fate -> Eternal Tears -> STELLAR WIND -> DROP
+passionate fate -> Eternal Tears -> Sun Field -> DROP
+passionate fate -> Evans -> SCREAM SQUAD -> DROP
+passionate fate -> Evans -> SOLID STATE SQUAD -> DROP
+passionate fate -> Evans -> STAR FIELD -> DROP
+passionate fate -> Evans -> STELLAR WIND -> DROP
+passionate fate -> Evans -> Sun Field -> DROP
+Pink Rose -> ECHOES -> SCREAM SQUAD -> DROP
+Pink Rose -> ECHOES -> SOLID STATE SQUAD -> DROP
+Pink Rose -> ECHOES -> STAR FIELD -> DROP
+Pink Rose -> ECHOES -> STELLAR WIND -> DROP
+Pink Rose -> ECHOES -> Sun Field -> DROP
+Pink Rose -> Eternal Tears -> SCREAM SQUAD -> DROP
+Pink Rose -> Eternal Tears -> SOLID STATE SQUAD -> DROP
+Pink Rose -> Eternal Tears -> STAR FIELD -> DROP
+Pink Rose -> Eternal Tears -> STELLAR WIND -> DROP
+Pink Rose -> Eternal Tears -> Sun Field -> DROP
+Pink Rose -> Evans -> SCREAM SQUAD -> DROP
+Pink Rose -> Evans -> SOLID STATE SQUAD -> DROP
+Pink Rose -> Evans -> STAR FIELD -> DROP
+Pink Rose -> Evans -> STELLAR WIND -> DROP
+Pink Rose -> Evans -> Sun Field -> DROP
+POODLE -> ECHOES -> SCREAM SQUAD -> DROP
+POODLE -> ECHOES -> SOLID STATE SQUAD -> DROP
+POODLE -> ECHOES -> STAR FIELD -> DROP
+POODLE -> ECHOES -> STELLAR WIND -> DROP
+POODLE -> ECHOES -> Sun Field -> DROP
+POODLE -> Eternal Tears -> SCREAM SQUAD -> DROP
+POODLE -> Eternal Tears -> SOLID STATE SQUAD -> DROP
+POODLE -> Eternal Tears -> STAR FIELD -> DROP
+POODLE -> Eternal Tears -> STELLAR WIND -> DROP
+POODLE -> Eternal Tears -> Sun Field -> DROP
+POODLE -> Evans -> SCREAM SQUAD -> DROP
+POODLE -> Evans -> SOLID STATE SQUAD -> DROP
+POODLE -> Evans -> STAR FIELD -> DROP
+POODLE -> Evans -> STELLAR WIND -> DROP
+POODLE -> Evans -> Sun Field -> DROP
+Power of Love -> ECHOES -> SCREAM SQUAD -> DROP
+Power of Love -> ECHOES -> SOLID STATE SQUAD -> DROP
+Power of Love -> ECHOES -> STAR FIELD -> DROP
+Power of Love -> ECHOES -> STELLAR WIND -> DROP
+Power of Love -> ECHOES -> Sun Field -> DROP
+Power of Love -> Eternal Tears -> SCREAM SQUAD -> DROP
+Power of Love -> Eternal Tears -> SOLID STATE SQUAD -> DROP
+Power of Love -> Eternal Tears -> STAR FIELD -> DROP
+Power of Love -> Eternal Tears -> STELLAR WIND -> DROP
+Power of Love -> Eternal Tears -> Sun Field -> DROP
+Power of Love -> Evans -> SCREAM SQUAD -> DROP
+Power of Love -> Evans -> SOLID STATE SQUAD -> DROP
+Power of Love -> Evans -> STAR FIELD -> DROP
+Power of Love -> Evans -> STELLAR WIND -> DROP
+Power of Love -> Evans -> Sun Field -> DROP
+Prelude -> ECHOES -> SCREAM SQUAD -> DROP
+Prelude -> ECHOES -> SOLID STATE SQUAD -> DROP
+Prelude -> ECHOES -> STAR FIELD -> DROP
+Prelude -> ECHOES -> STELLAR WIND -> DROP
+Prelude -> ECHOES -> Sun Field -> DROP
+Prelude -> Eternal Tears -> SCREAM SQUAD -> DROP
+Prelude -> Eternal Tears -> SOLID STATE SQUAD -> DROP
+Prelude -> Eternal Tears -> STAR FIELD -> DROP
+Prelude -> Eternal Tears -> STELLAR WIND -> DROP
+Prelude -> Eternal Tears -> Sun Field -> DROP
+Prelude -> Evans -> SCREAM SQUAD -> DROP
+Prelude -> Evans -> SOLID STATE SQUAD -> DROP
+Prelude -> Evans -> STAR FIELD -> DROP
+Prelude -> Evans -> STELLAR WIND -> DROP
+Prelude -> Evans -> Sun Field -> DROP
+Programmed Life -> ECHOES -> SCREAM SQUAD -> DROP
+Programmed Life -> ECHOES -> SOLID STATE SQUAD -> DROP
+Programmed Life -> ECHOES -> STAR FIELD -> DROP
+Programmed Life -> ECHOES -> STELLAR WIND -> DROP
+Programmed Life -> ECHOES -> Sun Field -> DROP
+Programmed Life -> Eternal Tears -> SCREAM SQUAD -> DROP
+Programmed Life -> Eternal Tears -> SOLID STATE SQUAD -> DROP
+Programmed Life -> Eternal Tears -> STAR FIELD -> DROP
+Programmed Life -> Eternal Tears -> STELLAR WIND -> DROP
+Programmed Life -> Eternal Tears -> Sun Field -> DROP
+Programmed Life -> Evans -> SCREAM SQUAD -> DROP
+Programmed Life -> Evans -> SOLID STATE SQUAD -> DROP
+Programmed Life -> Evans -> STAR FIELD -> DROP
+Programmed Life -> Evans -> STELLAR WIND -> DROP
+Programmed Life -> Evans -> Sun Field -> DROP
+PROMISE FOR LIFE -> ECHOES -> SCREAM SQUAD -> DROP
+PROMISE FOR LIFE -> ECHOES -> SOLID STATE SQUAD -> DROP
+PROMISE FOR LIFE -> ECHOES -> STAR FIELD -> DROP
+PROMISE FOR LIFE -> ECHOES -> STELLAR WIND -> DROP
+PROMISE FOR LIFE -> ECHOES -> Sun Field -> DROP
+PROMISE FOR LIFE -> Eternal Tears -> SCREAM SQUAD -> DROP
+PROMISE FOR LIFE -> Eternal Tears -> SOLID STATE SQUAD -> DROP
+PROMISE FOR LIFE -> Eternal Tears -> STAR FIELD -> DROP
+PROMISE FOR LIFE -> Eternal Tears -> STELLAR WIND -> DROP
+PROMISE FOR LIFE -> Eternal Tears -> Sun Field -> DROP
+PROMISE FOR LIFE -> Evans -> SCREAM SQUAD -> DROP
+PROMISE FOR LIFE -> Evans -> SOLID STATE SQUAD -> DROP
+PROMISE FOR LIFE -> Evans -> STAR FIELD -> DROP
+PROMISE FOR LIFE -> Evans -> STELLAR WIND -> DROP
+PROMISE FOR LIFE -> Evans -> Sun Field -> DROP
+passionate fate -> ELECTRIC MASSIVE DIVER -> Round and Round -> DROP
+Pink Rose -> ELECTRIC MASSIVE DIVER -> Round and Round -> DROP
+POODLE -> ELECTRIC MASSIVE DIVER -> Round and Round -> DROP
+Power of Love -> ELECTRIC MASSIVE DIVER -> Round and Round -> DROP
+Prelude -> ELECTRIC MASSIVE DIVER -> Round and Round -> DROP
+Programmed Life -> ELECTRIC MASSIVE DIVER -> Round and Round -> DROP
+PROMISE FOR LIFE -> ELECTRIC MASSIVE DIVER -> Round and Round -> DROP
+passionate fate -> Elisha -> AIR RAID FROM THA UNDAGROUND -> DROP
+passionate fate -> Elisha -> ALIEN WORLD -> DROP
+passionate fate -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> DROP
+passionate fate -> EXUSIA -> ALIEN WORLD -> DROP
+Pink Rose -> Elisha -> AIR RAID FROM THA UNDAGROUND -> DROP
+Pink Rose -> Elisha -> ALIEN WORLD -> DROP
+Pink Rose -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> DROP
+Pink Rose -> EXUSIA -> ALIEN WORLD -> DROP
+POODLE -> Elisha -> AIR RAID FROM THA UNDAGROUND -> DROP
+POODLE -> Elisha -> ALIEN WORLD -> DROP
+POODLE -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> DROP
+POODLE -> EXUSIA -> ALIEN WORLD -> DROP
+Power of Love -> Elisha -> AIR RAID FROM THA UNDAGROUND -> DROP
+Power of Love -> Elisha -> ALIEN WORLD -> DROP
+Power of Love -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> DROP
+Power of Love -> EXUSIA -> ALIEN WORLD -> DROP
+Prelude -> Elisha -> AIR RAID FROM THA UNDAGROUND -> DROP
+Prelude -> Elisha -> ALIEN WORLD -> DROP
+Prelude -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> DROP
+Prelude -> EXUSIA -> ALIEN WORLD -> DROP
+Programmed Life -> Elisha -> AIR RAID FROM THA UNDAGROUND -> DROP
+Programmed Life -> Elisha -> ALIEN WORLD -> DROP
+Programmed Life -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> DROP
+Programmed Life -> EXUSIA -> ALIEN WORLD -> DROP
+PROMISE FOR LIFE -> Elisha -> AIR RAID FROM THA UNDAGROUND -> DROP
+PROMISE FOR LIFE -> Elisha -> ALIEN WORLD -> DROP
+PROMISE FOR LIFE -> EXUSIA -> AIR RAID FROM THA UNDAGROUND -> DROP
+PROMISE FOR LIFE -> EXUSIA -> ALIEN WORLD -> DROP
+passionate fate -> end of world -> D -> DROP
+passionate fate -> end of world -> Destiny Sword -> DROP
+Pink Rose -> end of world -> D -> DROP
+Pink Rose -> end of world -> Destiny Sword -> DROP
+POODLE -> end of world -> D -> DROP
+POODLE -> end of world -> Destiny Sword -> DROP
+Power of Love -> end of world -> D -> DROP
+Power of Love -> end of world -> Destiny Sword -> DROP
+Prelude -> end of world -> D -> DROP
+Prelude -> end of world -> Destiny Sword -> DROP
+Programmed Life -> end of world -> D -> DROP
+Programmed Life -> end of world -> Destiny Sword -> DROP
+PROMISE FOR LIFE -> end of world -> D -> DROP
+PROMISE FOR LIFE -> end of world -> Destiny Sword -> DROP
+passionate fate -> eRAseRmOToRpHAntOM -> METALLIC MIND -> DROP
+passionate fate -> eRAseRmOToRpHAntOM -> moon_child -> DROP
+passionate fate -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> DROP
+Pink Rose -> eRAseRmOToRpHAntOM -> METALLIC MIND -> DROP
+Pink Rose -> eRAseRmOToRpHAntOM -> moon_child -> DROP
+Pink Rose -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> DROP
+POODLE -> eRAseRmOToRpHAntOM -> METALLIC MIND -> DROP
+POODLE -> eRAseRmOToRpHAntOM -> moon_child -> DROP
+POODLE -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> DROP
+Power of Love -> eRAseRmOToRpHAntOM -> METALLIC MIND -> DROP
+Power of Love -> eRAseRmOToRpHAntOM -> moon_child -> DROP
+Power of Love -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> DROP
+Prelude -> eRAseRmOToRpHAntOM -> METALLIC MIND -> DROP
+Prelude -> eRAseRmOToRpHAntOM -> moon_child -> DROP
+Prelude -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> DROP
+Programmed Life -> eRAseRmOToRpHAntOM -> METALLIC MIND -> DROP
+Programmed Life -> eRAseRmOToRpHAntOM -> moon_child -> DROP
+Programmed Life -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> DROP
+PROMISE FOR LIFE -> eRAseRmOToRpHAntOM -> METALLIC MIND -> DROP
+PROMISE FOR LIFE -> eRAseRmOToRpHAntOM -> moon_child -> DROP
+PROMISE FOR LIFE -> eRAseRmOToRpHAntOM -> MUSIC TO YOUR HEAD -> DROP
+passionate fate -> Everlasting Resort -> Tizona d'El Cid -> DROP
+passionate fate -> Everlasting Resort -> TRANOID -> DROP
+Pink Rose -> Everlasting Resort -> Tizona d'El Cid -> DROP
+Pink Rose -> Everlasting Resort -> TRANOID -> DROP
+POODLE -> Everlasting Resort -> Tizona d'El Cid -> DROP
+POODLE -> Everlasting Resort -> TRANOID -> DROP
+Power of Love -> Everlasting Resort -> Tizona d'El Cid -> DROP
+Power of Love -> Everlasting Resort -> TRANOID -> DROP
+Prelude -> Everlasting Resort -> Tizona d'El Cid -> DROP
+Prelude -> Everlasting Resort -> TRANOID -> DROP
+Programmed Life -> Everlasting Resort -> Tizona d'El Cid -> DROP
+Programmed Life -> Everlasting Resort -> TRANOID -> DROP
+PROMISE FOR LIFE -> Everlasting Resort -> Tizona d'El Cid -> DROP
+PROMISE FOR LIFE -> Everlasting Resort -> TRANOID -> DROP
+perditus†paradisus -> sakura storm -> METALLIC MIND -> DROP
+perditus†paradisus -> sakura storm -> moon_child -> DROP
+perditus†paradisus -> sakura storm -> MUSIC TO YOUR HEAD -> DROP
+perditus†paradisus -> snow storm -> METALLIC MIND -> DROP
+perditus†paradisus -> snow storm -> moon_child -> DROP
+perditus†paradisus -> snow storm -> MUSIC TO YOUR HEAD -> DROP
+perditus†paradisus -> SOLITON BEAM -> METALLIC MIND -> DROP
+perditus†paradisus -> SOLITON BEAM -> moon_child -> DROP
+perditus†paradisus -> SOLITON BEAM -> MUSIC TO YOUR HEAD -> DROP
+Pollinosis -> sakura storm -> METALLIC MIND -> DROP
+Pollinosis -> sakura storm -> moon_child -> DROP
+Pollinosis -> sakura storm -> MUSIC TO YOUR HEAD -> DROP
+Pollinosis -> snow storm -> METALLIC MIND -> DROP
+Pollinosis -> snow storm -> moon_child -> DROP
+Pollinosis -> snow storm -> MUSIC TO YOUR HEAD -> DROP
+Pollinosis -> SOLITON BEAM -> METALLIC MIND -> DROP
+Pollinosis -> SOLITON BEAM -> moon_child -> DROP
+Pollinosis -> SOLITON BEAM -> MUSIC TO YOUR HEAD -> DROP
+perditus†paradisus -> satfinal -> lower world -> DROP
+perditus†paradisus -> Star Trail -> lower world -> DROP
+Pollinosis -> satfinal -> lower world -> DROP
+Pollinosis -> Star Trail -> lower world -> DROP
+perditus†paradisus -> SA.YO.NA.RA. SUPER STAR -> Round and Round -> DROP
+perditus†paradisus -> SHOOTING STAR -> Round and Round -> DROP
+perditus†paradisus -> Skyscraper -> Round and Round -> DROP
+Pollinosis -> SA.YO.NA.RA. SUPER STAR -> Round and Round -> DROP
+Pollinosis -> SHOOTING STAR -> Round and Round -> DROP
+Pollinosis -> Skyscraper -> Round and Round -> DROP
+perditus†paradisus -> SCREAM SQUAD -> D -> DROP
+perditus†paradisus -> SCREAM SQUAD -> Destiny Sword -> DROP
+perditus†paradisus -> SOLID STATE SQUAD -> D -> DROP
+perditus†paradisus -> SOLID STATE SQUAD -> Destiny Sword -> DROP
+perditus†paradisus -> STAR FIELD -> D -> DROP
+perditus†paradisus -> STAR FIELD -> Destiny Sword -> DROP
+perditus†paradisus -> STELLAR WIND -> D -> DROP
+perditus†paradisus -> STELLAR WIND -> Destiny Sword -> DROP
+perditus†paradisus -> Sun Field -> D -> DROP
+perditus†paradisus -> Sun Field -> Destiny Sword -> DROP
+Pollinosis -> SCREAM SQUAD -> D -> DROP
+Pollinosis -> SCREAM SQUAD -> Destiny Sword -> DROP
+Pollinosis -> SOLID STATE SQUAD -> D -> DROP
+Pollinosis -> SOLID STATE SQUAD -> Destiny Sword -> DROP
+Pollinosis -> STAR FIELD -> D -> DROP
+Pollinosis -> STAR FIELD -> Destiny Sword -> DROP
+Pollinosis -> STELLAR WIND -> D -> DROP
+Pollinosis -> STELLAR WIND -> Destiny Sword -> DROP
+Pollinosis -> Sun Field -> D -> DROP
+Pollinosis -> Sun Field -> Destiny Sword -> DROP
+perditus†paradisus -> Scripted Connection⇒A mix -> X-rated -> DROP
+perditus†paradisus -> Scripted Connection⇒H mix -> X-rated -> DROP
+perditus†paradisus -> Scripted Connection⇒N mix -> X-rated -> DROP
+Pollinosis -> Scripted Connection⇒A mix -> X-rated -> DROP
+Pollinosis -> Scripted Connection⇒H mix -> X-rated -> DROP
+Pollinosis -> Scripted Connection⇒N mix -> X-rated -> DROP
+perditus†paradisus -> Secret of Love -> end of world -> DROP
+perditus†paradisus -> SHADE -> end of world -> DROP
+perditus†paradisus -> She is my wife -> end of world -> DROP
+perditus†paradisus -> Silvia Drive -> end of world -> DROP
+perditus†paradisus -> smile -> end of world -> DROP
+perditus†paradisus -> Snow Goose -> end of world -> DROP
+perditus†paradisus -> sometime -> end of world -> DROP
+perditus†paradisus -> Space Time -> end of world -> DROP
+perditus†paradisus -> Special One -> end of world -> DROP
+perditus†paradisus -> Sphere -> end of world -> DROP
+perditus†paradisus -> starmine -> end of world -> DROP
+perditus†paradisus -> Stay my side -> end of world -> DROP
+perditus†paradisus -> STEEL NEEDLE -> end of world -> DROP
+perditus†paradisus -> Sunrise -> end of world -> DROP
+Pollinosis -> Secret of Love -> end of world -> DROP
+Pollinosis -> SHADE -> end of world -> DROP
+Pollinosis -> She is my wife -> end of world -> DROP
+Pollinosis -> Silvia Drive -> end of world -> DROP
+Pollinosis -> smile -> end of world -> DROP
+Pollinosis -> Snow Goose -> end of world -> DROP
+Pollinosis -> sometime -> end of world -> DROP
+Pollinosis -> Space Time -> end of world -> DROP
+Pollinosis -> Special One -> end of world -> DROP
+Pollinosis -> Sphere -> end of world -> DROP
+Pollinosis -> starmine -> end of world -> DROP
+Pollinosis -> Stay my side -> end of world -> DROP
+Pollinosis -> STEEL NEEDLE -> end of world -> DROP
+Pollinosis -> Sunrise -> end of world -> DROP
+perditus†paradisus -> Secrets -> SCREAM SQUAD -> DROP
+perditus†paradisus -> Secrets -> SOLID STATE SQUAD -> DROP
+perditus†paradisus -> Secrets -> STAR FIELD -> DROP
+perditus†paradisus -> Secrets -> STELLAR WIND -> DROP
+perditus†paradisus -> Secrets -> Sun Field -> DROP
+perditus†paradisus -> Several Words -> SCREAM SQUAD -> DROP
+perditus†paradisus -> Several Words -> SOLID STATE SQUAD -> DROP
+perditus†paradisus -> Several Words -> STAR FIELD -> DROP
+perditus†paradisus -> Several Words -> STELLAR WIND -> DROP
+perditus†paradisus -> Several Words -> Sun Field -> DROP
+perditus†paradisus -> Smell Like This -> SCREAM SQUAD -> DROP
+perditus†paradisus -> Smell Like This -> SOLID STATE SQUAD -> DROP
+perditus†paradisus -> Smell Like This -> STAR FIELD -> DROP
+perditus†paradisus -> Smell Like This -> STELLAR WIND -> DROP
+perditus†paradisus -> Smell Like This -> Sun Field -> DROP
+perditus†paradisus -> Sorrows -> SCREAM SQUAD -> DROP
+perditus†paradisus -> Sorrows -> SOLID STATE SQUAD -> DROP
+perditus†paradisus -> Sorrows -> STAR FIELD -> DROP
+perditus†paradisus -> Sorrows -> STELLAR WIND -> DROP
+perditus†paradisus -> Sorrows -> Sun Field -> DROP
+perditus†paradisus -> still my words -> SCREAM SQUAD -> DROP
+perditus†paradisus -> still my words -> SOLID STATE SQUAD -> DROP
+perditus†paradisus -> still my words -> STAR FIELD -> DROP
+perditus†paradisus -> still my words -> STELLAR WIND -> DROP
+perditus†paradisus -> still my words -> Sun Field -> DROP
+perditus†paradisus -> Survival Games -> SCREAM SQUAD -> DROP
+perditus†paradisus -> Survival Games -> SOLID STATE SQUAD -> DROP
+perditus†paradisus -> Survival Games -> STAR FIELD -> DROP
+perditus†paradisus -> Survival Games -> STELLAR WIND -> DROP
+perditus†paradisus -> Survival Games -> Sun Field -> DROP
+Pollinosis -> Secrets -> SCREAM SQUAD -> DROP
+Pollinosis -> Secrets -> SOLID STATE SQUAD -> DROP
+Pollinosis -> Secrets -> STAR FIELD -> DROP
+Pollinosis -> Secrets -> STELLAR WIND -> DROP
+Pollinosis -> Secrets -> Sun Field -> DROP
+Pollinosis -> Several Words -> SCREAM SQUAD -> DROP
+Pollinosis -> Several Words -> SOLID STATE SQUAD -> DROP
+Pollinosis -> Several Words -> STAR FIELD -> DROP
+Pollinosis -> Several Words -> STELLAR WIND -> DROP
+Pollinosis -> Several Words -> Sun Field -> DROP
+Pollinosis -> Smell Like This -> SCREAM SQUAD -> DROP
+Pollinosis -> Smell Like This -> SOLID STATE SQUAD -> DROP
+Pollinosis -> Smell Like This -> STAR FIELD -> DROP
+Pollinosis -> Smell Like This -> STELLAR WIND -> DROP
+Pollinosis -> Smell Like This -> Sun Field -> DROP
+Pollinosis -> Sorrows -> SCREAM SQUAD -> DROP
+Pollinosis -> Sorrows -> SOLID STATE SQUAD -> DROP
+Pollinosis -> Sorrows -> STAR FIELD -> DROP
+Pollinosis -> Sorrows -> STELLAR WIND -> DROP
+Pollinosis -> Sorrows -> Sun Field -> DROP
+Pollinosis -> still my words -> SCREAM SQUAD -> DROP
+Pollinosis -> still my words -> SOLID STATE SQUAD -> DROP
+Pollinosis -> still my words -> STAR FIELD -> DROP
+Pollinosis -> still my words -> STELLAR WIND -> DROP
+Pollinosis -> still my words -> Sun Field -> DROP
+Pollinosis -> Survival Games -> SCREAM SQUAD -> DROP
+Pollinosis -> Survival Games -> SOLID STATE SQUAD -> DROP
+Pollinosis -> Survival Games -> STAR FIELD -> DROP
+Pollinosis -> Survival Games -> STELLAR WIND -> DROP
+Pollinosis -> Survival Games -> Sun Field -> DROP
+perditus†paradisus -> SHIFT -> Tizona d'El Cid -> DROP
+perditus†paradisus -> SHIFT -> TRANOID -> DROP
+perditus†paradisus -> SPACE FIGHT -> Tizona d'El Cid -> DROP
+perditus†paradisus -> SPACE FIGHT -> TRANOID -> DROP
+perditus†paradisus -> SPEEDY CAT -> Tizona d'El Cid -> DROP
+perditus†paradisus -> SPEEDY CAT -> TRANOID -> DROP
+perditus†paradisus -> State Of The Art -> Tizona d'El Cid -> DROP
+perditus†paradisus -> State Of The Art -> TRANOID -> DROP
+perditus†paradisus -> STILL IN MY HEART -> Tizona d'El Cid -> DROP
+perditus†paradisus -> STILL IN MY HEART -> TRANOID -> DROP
+Pollinosis -> SHIFT -> Tizona d'El Cid -> DROP
+Pollinosis -> SHIFT -> TRANOID -> DROP
+Pollinosis -> SPACE FIGHT -> Tizona d'El Cid -> DROP
+Pollinosis -> SPACE FIGHT -> TRANOID -> DROP
+Pollinosis -> SPEEDY CAT -> Tizona d'El Cid -> DROP
+Pollinosis -> SPEEDY CAT -> TRANOID -> DROP
+Pollinosis -> State Of The Art -> Tizona d'El Cid -> DROP
+Pollinosis -> State Of The Art -> TRANOID -> DROP
+Pollinosis -> STILL IN MY HEART -> Tizona d'El Cid -> DROP
+Pollinosis -> STILL IN MY HEART -> TRANOID -> DROP
+perditus†paradisus -> Spica -> AIR RAID FROM THA UNDAGROUND -> DROP
+perditus†paradisus -> Spica -> ALIEN WORLD -> DROP
+Pollinosis -> Spica -> AIR RAID FROM THA UNDAGROUND -> DROP
+Pollinosis -> Spica -> ALIEN WORLD -> DROP
+perditus†paradisus -> Spin the disc -> Change the World -> DROP
+perditus†paradisus -> Spin the disc -> CROSSROAD -> DROP
+perditus†paradisus -> stoic -> Change the World -> DROP
+perditus†paradisus -> stoic -> CROSSROAD -> DROP
+perditus†paradisus -> Sweet Sweet ♥ Magic -> Change the World -> DROP
+perditus†paradisus -> Sweet Sweet ♥ Magic -> CROSSROAD -> DROP
+perditus†paradisus -> symbolic -> Change the World -> DROP
+perditus†paradisus -> symbolic -> CROSSROAD -> DROP
+perditus†paradisus -> sync -> Change the World -> DROP
+perditus†paradisus -> sync -> CROSSROAD -> DROP
+Pollinosis -> Spin the disc -> Change the World -> DROP
+Pollinosis -> Spin the disc -> CROSSROAD -> DROP
+Pollinosis -> stoic -> Change the World -> DROP
+Pollinosis -> stoic -> CROSSROAD -> DROP
+Pollinosis -> Sweet Sweet ♥ Magic -> Change the World -> DROP
+Pollinosis -> Sweet Sweet ♥ Magic -> CROSSROAD -> DROP
+Pollinosis -> symbolic -> Change the World -> DROP
+Pollinosis -> symbolic -> CROSSROAD -> DROP
+Pollinosis -> sync -> Change the World -> DROP
+Pollinosis -> sync -> CROSSROAD -> DROP
+Phoenix -> X-rated -> D -> DROP
+Phoenix -> X-rated -> Destiny Sword -> DROP
+Phoenix -> XANADU OF TWO -> One of A Kind -> DROP
+Phoenix -> Xepher -> Round and Round -> DROP
+PHOTONGENIC -> CALL -> lower world -> DROP
+PHOTONGENIC -> CAN'T STOP FALLIN'IN LOVE -> end of world -> DROP
+PHOTONGENIC -> Catch Me -> end of world -> DROP
+PHOTONGENIC -> CELEBRATE NITE -> end of world -> DROP
+PHOTONGENIC -> Clione -> end of world -> DROP
+PHOTONGENIC -> Close my Eyes for Me -> end of world -> DROP
+PHOTONGENIC -> Colorful Cookie -> end of world -> DROP
+PHOTONGENIC -> Concertino in Blue -> end of world -> DROP
+PHOTONGENIC -> Cradle -> end of world -> DROP
+PHOTONGENIC -> Cyber Force -> end of world -> DROP
+PHOTONGENIC -> Change the World -> D -> DROP
+PHOTONGENIC -> Change the World -> Destiny Sword -> DROP
+PHOTONGENIC -> CROSSROAD -> D -> DROP
+PHOTONGENIC -> CROSSROAD -> Destiny Sword -> DROP
+PHOTONGENIC -> CHECKING YOU OUT -> Tizona d'El Cid -> DROP
+PHOTONGENIC -> CHECKING YOU OUT -> TRANOID -> DROP
+PHOTONGENIC -> CONTRACT -> Tizona d'El Cid -> DROP
+PHOTONGENIC -> CONTRACT -> TRANOID -> DROP
+PHOTONGENIC -> CLOUDY MUSIC -> Change the World -> DROP
+PHOTONGENIC -> CLOUDY MUSIC -> CROSSROAD -> DROP
+PLEASE DON'T GO -> One of A Kind -> D -> DROP
+PLEASE DON'T GO -> One of A Kind -> Destiny Sword -> DROP
+Presto -> One of A Kind -> D -> DROP
+Presto -> One of A Kind -> Destiny Sword -> DROP
+PLEASE DON'T GO -> one or eight -> Tizona d'El Cid -> DROP
+PLEASE DON'T GO -> one or eight -> TRANOID -> DROP
+Presto -> one or eight -> Tizona d'El Cid -> DROP
+Presto -> one or eight -> TRANOID -> DROP
+PLEASE DON'T GO -> oratio -> One of A Kind -> DROP
+Presto -> oratio -> One of A Kind -> DROP
+PLEASE DON'T GO -> outer wall -> lower world -> DROP
+Presto -> outer wall -> lower world -> DROP
+POWER DREAM -> madrugada -> AIR RAID FROM THA UNDAGROUND -> DROP
+POWER DREAM -> madrugada -> ALIEN WORLD -> DROP
+POWER DREAM -> Make A Difference -> end of world -> DROP
+POWER DREAM -> Marie Antoinette -> end of world -> DROP
+POWER DREAM -> Marmalade Reverie -> end of world -> DROP
+POWER DREAM -> MAX LOVE -> end of world -> DROP
+POWER DREAM -> Medicine of love -> end of world -> DROP
+POWER DREAM -> Melody Life -> end of world -> DROP
+POWER DREAM -> Miami Sunset Drive -> end of world -> DROP
+POWER DREAM -> Monkey Dance -> end of world -> DROP
+POWER DREAM -> MOON RACE -> end of world -> DROP
+POWER DREAM -> MY FUTURE -> end of world -> DROP
+POWER DREAM -> memories -> SCREAM SQUAD -> DROP
+POWER DREAM -> memories -> SOLID STATE SQUAD -> DROP
+POWER DREAM -> memories -> STAR FIELD -> DROP
+POWER DREAM -> memories -> STELLAR WIND -> DROP
+POWER DREAM -> memories -> Sun Field -> DROP
+POWER DREAM -> MENDES -> SCREAM SQUAD -> DROP
+POWER DREAM -> MENDES -> SOLID STATE SQUAD -> DROP
+POWER DREAM -> MENDES -> STAR FIELD -> DROP
+POWER DREAM -> MENDES -> STELLAR WIND -> DROP
+POWER DREAM -> MENDES -> Sun Field -> DROP
+POWER DREAM -> MIRACLE MEETS -> SCREAM SQUAD -> DROP
+POWER DREAM -> MIRACLE MEETS -> SOLID STATE SQUAD -> DROP
+POWER DREAM -> MIRACLE MEETS -> STAR FIELD -> DROP
+POWER DREAM -> MIRACLE MEETS -> STELLAR WIND -> DROP
+POWER DREAM -> MIRACLE MEETS -> Sun Field -> DROP
+POWER DREAM -> murmur twins -> SCREAM SQUAD -> DROP
+POWER DREAM -> murmur twins -> SOLID STATE SQUAD -> DROP
+POWER DREAM -> murmur twins -> STAR FIELD -> DROP
+POWER DREAM -> murmur twins -> STELLAR WIND -> DROP
+POWER DREAM -> murmur twins -> Sun Field -> DROP
+POWER DREAM -> Mermaid girl -> lower world -> DROP
+POWER DREAM -> METALLIC MIND -> D -> DROP
+POWER DREAM -> METALLIC MIND -> Destiny Sword -> DROP
+POWER DREAM -> moon_child -> D -> DROP
+POWER DREAM -> moon_child -> Destiny Sword -> DROP
+POWER DREAM -> MUSIC TO YOUR HEAD -> D -> DROP
+POWER DREAM -> MUSIC TO YOUR HEAD -> Destiny Sword -> DROP
+POWER DREAM -> MINT -> Tizona d'El Cid -> DROP
+POWER DREAM -> MINT -> TRANOID -> DROP
+POWER DREAM -> mosaic -> Change the World -> DROP
+POWER DREAM -> mosaic -> CROSSROAD -> DROP
+POWER DREAM -> My Only Shining Star -> Round and Round -> DROP
+Pretty Punisher -> radius -> SCREAM SQUAD -> DROP
+Pretty Punisher -> radius -> SOLID STATE SQUAD -> DROP
+Pretty Punisher -> radius -> STAR FIELD -> DROP
+Pretty Punisher -> radius -> STELLAR WIND -> DROP
+Pretty Punisher -> radius -> Sun Field -> DROP
+Pretty Punisher -> Raise your hands -> SCREAM SQUAD -> DROP
+Pretty Punisher -> Raise your hands -> SOLID STATE SQUAD -> DROP
+Pretty Punisher -> Raise your hands -> STAR FIELD -> DROP
+Pretty Punisher -> Raise your hands -> STELLAR WIND -> DROP
+Pretty Punisher -> Raise your hands -> Sun Field -> DROP
+Pretty Punisher -> Regulus -> SCREAM SQUAD -> DROP
+Pretty Punisher -> Regulus -> SOLID STATE SQUAD -> DROP
+Pretty Punisher -> Regulus -> STAR FIELD -> DROP
+Pretty Punisher -> Regulus -> STELLAR WIND -> DROP
+Pretty Punisher -> Regulus -> Sun Field -> DROP
+Pretty Punisher -> route 80s -> SCREAM SQUAD -> DROP
+Pretty Punisher -> route 80s -> SOLID STATE SQUAD -> DROP
+Pretty Punisher -> route 80s -> STAR FIELD -> DROP
+Pretty Punisher -> route 80s -> STELLAR WIND -> DROP
+Pretty Punisher -> route 80s -> Sun Field -> DROP
+Pretty Punisher -> rage against usual -> lower world -> DROP
+Pretty Punisher -> Real -> lower world -> DROP
+Pretty Punisher -> rainbow flyer -> Round and Round -> DROP
+Pretty Punisher -> Really Love -> end of world -> DROP
+Pretty Punisher -> RED ZONE -> end of world -> DROP
+Pretty Punisher -> REMINISCENCE -> end of world -> DROP
+Pretty Punisher -> Rock Da House -> end of world -> DROP
+Pretty Punisher -> Roulette -> end of world -> DROP
+Pretty Punisher -> Red. by Full Metal Jacket -> Tizona d'El Cid -> DROP
+Pretty Punisher -> Red. by Full Metal Jacket -> TRANOID -> DROP
+Pretty Punisher -> Release The Music -> Change the World -> DROP
+Pretty Punisher -> Release The Music -> CROSSROAD -> DROP
+Pretty Punisher -> RISLIM -> METALLIC MIND -> DROP
+Pretty Punisher -> RISLIM -> moon_child -> DROP
+Pretty Punisher -> RISLIM -> MUSIC TO YOUR HEAD -> DROP
+Pretty Punisher -> Ristaccia -> AIR RAID FROM THA UNDAGROUND -> DROP
+Pretty Punisher -> Ristaccia -> ALIEN WORLD -> DROP
+Pretty Punisher -> Round and Round -> D -> DROP
+Pretty Punisher -> Round and Round -> Destiny Sword -> DROP
+Programmed Sun -> NΦ CRIME -> end of world -> DROP
+Programmed Sun -> naughty girl@Queen's Palace -> end of world -> DROP
+Programmed Sun -> Narcissus At Oasis -> SCREAM SQUAD -> DROP
+Programmed Sun -> Narcissus At Oasis -> SOLID STATE SQUAD -> DROP
+Programmed Sun -> Narcissus At Oasis -> STAR FIELD -> DROP
+Programmed Sun -> Narcissus At Oasis -> STELLAR WIND -> DROP
+Programmed Sun -> Narcissus At Oasis -> Sun Field -> DROP
+Programmed Sun -> NEMESIS -> SCREAM SQUAD -> DROP
+Programmed Sun -> NEMESIS -> SOLID STATE SQUAD -> DROP
+Programmed Sun -> NEMESIS -> STAR FIELD -> DROP
+Programmed Sun -> NEMESIS -> STELLAR WIND -> DROP
+Programmed Sun -> NEMESIS -> Sun Field -> DROP
+Programmed Sun -> neogenesis -> SCREAM SQUAD -> DROP
+Programmed Sun -> neogenesis -> SOLID STATE SQUAD -> DROP
+Programmed Sun -> neogenesis -> STAR FIELD -> DROP
+Programmed Sun -> neogenesis -> STELLAR WIND -> DROP
+Programmed Sun -> neogenesis -> Sun Field -> DROP
+Programmed Sun -> New Castle Legions -> SCREAM SQUAD -> DROP
+Programmed Sun -> New Castle Legions -> SOLID STATE SQUAD -> DROP
+Programmed Sun -> New Castle Legions -> STAR FIELD -> DROP
+Programmed Sun -> New Castle Legions -> STELLAR WIND -> DROP
+Programmed Sun -> New Castle Legions -> Sun Field -> DROP
+Programmed Sun -> NEBULA GRASPER -> Round and Round -> DROP
+Programmed Sun -> Now and Forever -> Round and Round -> DROP
